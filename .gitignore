@@ -3,7 +3,6 @@ cv.md
 data/applications.md
 data/pipeline.md
 data/scan-history.tsv
-reports/*.md
 !reports/.gitkeep
 !output/.gitkeep
 batch/logs/*
