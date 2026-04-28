@@ -1,0 +1,75 @@
+%% Career-Ops Cover Letter Template
+%% Visual style matches templates/cv-template.tex (accent color, lmodern, ATS-friendly).
+%% Build: pdflatex {file}.tex (or tectonic {file}.tex)
+
+\documentclass[letterpaper,11pt]{article}
+
+\usepackage[margin=0.85in]{geometry}
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage{lmodern}
+\usepackage{microtype}
+\usepackage{hyperref}
+\usepackage{xcolor}
+\usepackage{parskip}
+
+\definecolor{accent}{HTML}{1F3A5F}
+
+\hypersetup{
+  colorlinks=true,
+  urlcolor=accent,
+  linkcolor=accent,
+  pdftitle={ Ahnaf An Nafee - Cover Letter - Perplexity },
+  pdfauthor={ Ahnaf An Nafee },
+  pdfsubject={Cover Letter}
+}
+
+\input{glyphtounicode}
+\pdfgentounicode=1
+
+\pagestyle{empty}
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{8pt}
+
+\begin{document}
+
+% --- Header (matches CV) ----------------------------------------------------
+\begin{center}
+  {\LARGE\bfseries\color{accent} Ahnaf An Nafee }\\[3pt]
+  {\small Software Engineer \textbar{} AI Researcher \textbar{} DevOps \& Cloud Infrastructure }\\[4pt]
+  \small
+  \href{mailto:ahnafnafee@gmail.com}{ahnafnafee@gmail.com} \textbar{}
+  Fairfax, VA\\
+  \href{https://linkedin.com/in/ahnafnafee}{linkedin.com/in/ahnafnafee} \textbar{}
+  \href{https://github.com/ahnafnafee}{github.com/ahnafnafee} \textbar{}
+  \href{https://www.ahnafnafee.dev}{ahnafnafee.dev}
+\end{center}
+
+\vspace{20pt}
+
+% --- Date -------------------------------------------------------------------
+April 27, 2026
+
+% --- Recipient block (multi-line; use \\ between lines) ---------------------
+Nate Kupp\\Vice President of Infrastructure\\Perplexity
+
+% --- Subject ----------------------------------------------------------------
+\textbf{Re: Member of Technical Staff (AI Infrastructure Engineer)}
+
+% --- Greeting ---------------------------------------------------------------
+Dear Nate,
+
+% --- Body (3 paragraphs separated by blank lines) ---------------------------
+Perplexity's \$750M Azure GPU commitment, \$22B valuation, and dual mandate across search and agent infrastructure define a scale problem most teams will never see: multi-cloud Kubernetes federation, training and inference clusters in lockstep, and budget pressure measured in eight figures. The AI Infrastructure MTS opening reads as a search for a rare profile --- a production Kubernetes veteran who also reads PyTorch fluently. That bridge is exactly the seam I have spent the last four years building toward.
+
+At Paychex, I architected a cross-team Kubernetes/OpenShift standardization across 10+ service teams, eliminating configuration conflicts and accelerating developer velocity through RBAC policies and observability automation co-owned with SRE. As CTO at Dynasty 11, I led an AWS migration that cut cloud spend 80\% via right-sizing, autoscaling, and serverless adoption --- the same levers that compound into real dollars on GPU fleets. I automated the full TLS certificate lifecycle and eliminated certificate-related downtime by 100\%, the kind of unglamorous reliability work that keeps inference SLAs honest. On the research side, my PhD work at George Mason's DCXR Lab on generative AI gives me PyTorch fluency and comfort with distributed-training vocabulary (MHA, GQA, diffusion). Honestly, Slurm at multi-cluster federation scale is not on my resume --- I would be ramping on scheduler depth there, while bringing Kubernetes operator experience and research-side ML literacy as the bridge to close the gap fast.
+
+Perplexity sits exactly where my trajectory points: production reliability discipline meeting research-grade AI literacy, at a company with the budget and ambition to do both seriously. I would welcome a conversation about how the infrastructure org is shaping the multi-cloud layer.
+
+% --- Closing ----------------------------------------------------------------
+Sincerely,
+
+\vspace{18pt}
+Ahnaf An Nafee
+
+\end{document}

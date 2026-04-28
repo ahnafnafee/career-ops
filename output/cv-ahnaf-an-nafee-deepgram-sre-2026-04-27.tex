@@ -1,0 +1,170 @@
+%% Career-Ops LaTeX CV Template
+%% Style: ATS-optimized single-column, minimal color accent, single-page friendly.
+%% Build: pdflatex {file}.tex (or tectonic {file}.tex)
+
+\documentclass[letterpaper,10pt]{article}
+
+\usepackage[margin=0.55in]{geometry}
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage{lmodern}
+\usepackage{microtype}
+\usepackage{enumitem}
+\usepackage{titlesec}
+\usepackage{hyperref}
+\usepackage{xcolor}
+\usepackage{parskip}
+
+\definecolor{accent}{HTML}{1F3A5F}
+
+\hypersetup{
+  colorlinks=true,
+  urlcolor=accent,
+  linkcolor=accent,
+  pdftitle={ Ahnaf An Nafee - Resume },
+  pdfauthor={ Ahnaf An Nafee },
+  pdfsubject={Resume},
+  pdfkeywords={ Site Reliability Engineering, Kubernetes, AWS, Terraform, AI Infrastructure, ML Infrastructure, OpenShift, CI/CD, RBAC, IaC, Observability, Incident Response, Production Reliability, GPU Clusters, Model Serving, Real-Time Inference, MLOps, Microservices, GitHub Actions, Helm }
+}
+
+% Ensure generated PDF is machine readable / ATS parseable
+\input{glyphtounicode}
+\pdfgentounicode=1
+
+\pagestyle{empty}
+\setlength{\parindent}{0pt}
+\raggedbottom
+\raggedright
+
+% --- Section formatting ------------------------------------------------------
+% Note: section titles render in mixed case (no \MakeUppercase) for maximum
+% ATS compatibility. Older parsers normalize headers like "Work Experience"
+% and "Education" more reliably than uppercase variants.
+\titleformat{\section}
+  {\color{accent}\large\bfseries}
+  {}{0em}{}[{\color{accent}\vspace{-6pt}\hrulefill\vspace{-4pt}}]
+\titlespacing*{\section}{0pt}{8pt}{4pt}
+
+\titleformat{\subsection}
+  {\normalsize\bfseries}
+  {}{0em}{}
+\titlespacing*{\subsection}{0pt}{4pt}{2pt}
+
+% --- Custom commands ---------------------------------------------------------
+\newcommand{\role}[4]{%
+  \textbf{#1} \hfill \textit{#3}\\[-1pt]
+  \textit{#2} \hfill \textit{#4}\par\vspace{2pt}
+}
+
+\newcommand{\education}[4]{%
+  \textbf{#1} \hfill \textit{#3}\\[-1pt]
+  \textit{#2} \hfill \textit{#4}\par\vspace{2pt}
+}
+
+\newlist{tightitemize}{itemize}{1}
+\setlist[tightitemize]{leftmargin=1.3em, topsep=2pt, itemsep=1pt, parsep=0pt, label=\textbullet}
+
+% =============================================================================
+\begin{document}
+
+% --- Header ------------------------------------------------------------------
+\begin{center}
+  {\LARGE\bfseries\color{accent} Ahnaf An Nafee }\\[3pt]
+  {\normalsize Software Engineer \textbar{} AI Researcher \textbar{} DevOps \& Cloud Infrastructure }\\[4pt]
+  \small
+  \href{mailto:ahnafnafee@gmail.com}{ahnafnafee@gmail.com} \textbar{}
+  540-252-8738 \textbar{}
+  Fairfax, VA\\
+  \href{https://linkedin.com/in/ahnafnafee}{linkedin.com/in/ahnafnafee} \textbar{}
+  \href{https://github.com/ahnafnafee}{github.com/ahnafnafee} \textbar{}
+  \href{https://www.ahnafnafee.dev}{ahnafnafee.dev} \textbar{} \href{https://scholar.google.com/citations?user=u15DO0cAAAAJ}{Google Scholar}
+\end{center}
+
+% --- Summary -----------------------------------------------------------------
+\section*{Summary}
+Former CTO turned PhD researcher at George Mason's DCXR Lab, blending production Site Reliability Engineering with applied AI/ML infrastructure work. Hands-on with Kubernetes/OpenShift at enterprise scale, AWS cloud architecture, and CI/CD automation in regulated environments --- shipped RBAC hardening, eliminated 100\% of certificate-related downtime, and cut cloud spend by 80\% through right-sizing and serverless adoption. Treats infrastructure as code with an automation-first mindset, partnering across security, platform, and SRE teams to lift reliability and MTTR. Seeking SRE and AI/ML Infrastructure roles where systems thinking, IaC discipline, and applied AI research depth converge to keep production AI services running reliably at scale.
+
+% --- Skills ------------------------------------------------------------------
+\section*{Technical Skills}
+\textbf{Cloud \& DevOps:} AWS, Kubernetes, OpenShift, Docker, Terraform, CI/CD, GitHub Actions, Jenkins, Gradle, Maven, Helm, Observability\\
+\textbf{Reliability \& Systems:} RBAC, High Availability, Distributed Systems, Microservices, Infrastructure-as-Code, Incident Response, MTTR Improvement\\
+\textbf{Languages:} Python, Go, Java, C++, TypeScript, JavaScript, SQL, GLSL, Bash\\
+\textbf{AI / ML:} PyTorch, TensorFlow, Generative AI, Deep Learning, Computer Vision, Diffusion Models, LLMs, Reinforcement Learning, MLOps\\
+\textbf{Backend \& APIs:} REST, gRPC, WebSockets, OAuth, System Design\\
+\textbf{Graphics \& XR:} 3D Computer Graphics, Real-Time Rendering, Shader Programming, Unity, Unreal Engine, WebGL, Procedural Generation\\
+\textbf{Frontend:} React, Node.js, Next.js, Redux, HTML5, CSS3\\
+\textbf{Methods:} Agile, Scrum, Test-Driven Development, Code Review, Technical Leadership, Cross-Functional Collaboration
+
+% --- Experience --------------------------------------------------------------
+\section*{Work Experience}
+\role{DevOps Engineer}{Paychex}{Feb 2023 -- Aug 2025}{Rochester, NY}
+\begin{tightitemize}
+  \item Designed and rolled out Role-Based Access Control (RBAC) policies in Kubernetes/OpenShift in partnership with security and infrastructure teams, hardening the platform against privilege-escalation risks
+  \item Automated end-to-end TLS certificate lifecycle management, eliminating manual renewals and reducing certificate-expiration-related downtime by \textbf{100\%}
+  \item Architected and led cross-team standardization of Kubernetes/OpenShift deployment dictionaries across 10+ service teams, eliminating configuration conflicts and accelerating developer velocity
+  \item Built a Gradle plugin for container image certification that streamlined CI-CD workflows, reduced build-pipeline congestion, and lowered operational expenses by \textbf{10\% annually}
+  \item Championed infrastructure-as-code and observability best practices; partnered with SREs to improve deployment reliability and mean time to recovery (MTTR)
+\end{tightitemize}
+
+\role{Chief Technology Officer}{Dynasty 11 Studios}{Jun 2022 -- Feb 2023}{Wayne, PA}
+\begin{tightitemize}
+  \item Spearheaded migration of monolithic backend to a microservices architecture on AWS, cutting application load and cloud spend by \textbf{80\%} through right-sizing, autoscaling, and serverless adoption
+  \item Introduced CI/CD with GitHub Actions and Maven, automating builds, tests, and deployments; reduced manual release effort by \textbf{85\%} and eliminated deploy-day toil
+  \item Owned end-to-end technical strategy, architecture, and execution as CTO; led engineering across backend, frontend, and cloud teams shipping a consumer-facing matchmaking platform
+  \item Recruited, mentored, and led multiple engineering pods through full microservice design, implementation, and production rollout
+  \item Drove weekly stakeholder syncs, aligning product, design, and engineering on roadmap, scope, and delivery milestones
+\end{tightitemize}
+
+\role{Software Engineer}{Dynasty 11 Studios}{Sep 2021 -- Jun 2022}{Wayne, PA}
+\begin{tightitemize}
+  \item Engineered a real-time chat subsystem using STOMP over WebSockets in Java, supporting thousands of concurrent users with low-latency delivery
+  \item Integrated 20+ REST endpoints across third-party and OAuth-based identity providers, enabling secure, scalable authentication and data exchange
+  \item Optimized client-side state management with Redux, cutting chat-service performance bottlenecks by \textbf{80\%}
+  \item Designed data pipelines and APIs powering the matchmaking recommendation engine serving thousands of active users
+\end{tightitemize}
+
+\role{Graduate Teaching Assistant}{George Mason University --- DCXR Lab}{Aug 2025 -- Present}{Fairfax, VA}
+\begin{tightitemize}
+  \item Mentor 60+ graduate and undergraduate students in algorithms, systems, and applied machine learning, driving measurable improvements in lab completion and conceptual mastery
+  \item Design coursework, lab exercises, and evaluation rubrics aligned with modern software engineering best practices
+\end{tightitemize}
+
+\role{Teaching Assistant}{Drexel University --- College of Computing \& Informatics}{Sep 2021 -- Jun 2022}{Philadelphia, PA}
+\begin{tightitemize}
+  \item Facilitated weekly labs and mentored students in systems engineering, programming fundamentals, and technical project management
+  \item Developed hands-on demonstrations translating abstract computer-science concepts into practical, assessable skills
+\end{tightitemize}
+
+\role{Technical Programmer}{PHL Collective}{Mar 2021 -- Sep 2021}{Philadelphia, PA}
+\begin{tightitemize}
+  \item Shipped gameplay systems and parameterized shaders for \textit{DC's Justice League: Cosmic Chaos} (multi-platform console/PC release)
+  \item Built modular game-manager scripts that streamlined designer workflows and accelerated feature iteration
+  \item Partnered with technical artists to create customizable, performance-tuned shaders optimized for runtime rendering
+  \item Executed integration and stress testing via Mantis, delivering actionable, developer-ready bug reports
+\end{tightitemize}
+
+% --- Education ---------------------------------------------------------------
+\section*{Education}
+\education{Ph.D. in Computer Science}{George Mason University --- DCXR Lab}{}{Fairfax, VA}
+\begin{tightitemize}
+  \item Research focus: generative AI for 3D content creation, machine-learning-driven graphics pipelines (UV mapping, non-photorealistic rendering), and human--computer interaction in immersive XR environments
+\end{tightitemize}
+
+\education{B.S. in Computer Science}{Drexel University}{}{Philadelphia, PA}
+\begin{tightitemize}
+  \item Honors: Dean's List; Founder's Scholarship
+  \item Relevant coursework: Algorithms, Operating Systems, Distributed Computing, Computer Graphics, Machine Learning, Software Engineering
+\end{tightitemize}
+
+% --- Projects ----------------------------------------------------------------
+% Section header is "Selected Projects" (not "Research & Selected Projects")
+% so ATS classify the items below as Projects. Research focus stays in the
+% bullet text itself.
+\section*{Selected Projects}
+\begin{tightitemize}
+\item \textbf{AI-Driven 3D Content Generation} --- Researching generative models (diffusion, neural fields) for automated, controllable 3D asset creation in production-grade graphics pipelines
+\item \textbf{ML for Graphics Pipelines} --- Exploring learning-based approaches to UV mapping, stylization, and non-photorealistic rendering (NPR) for real-time applications
+\item \textbf{Portfolio \& Publications} --- Additional projects, technical artwork, and game development work available at \href{https://www.ahnafnafee.dev/portfolio}{ahnafnafee.dev/portfolio}
+\end{tightitemize}
+
+\end{document}

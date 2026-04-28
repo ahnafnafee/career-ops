@@ -1,0 +1,74 @@
+%% Career-Ops Cover Letter -- Mistral AI -- Site Reliability Engineer (NYC)
+%% Build: pdflatex cover-letter-ahnaf-an-nafee-mistral-sre-nyc-2026-04-27.tex
+
+\documentclass[letterpaper,11pt]{article}
+
+\usepackage[margin=0.85in]{geometry}
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage{lmodern}
+\usepackage{microtype}
+\usepackage{hyperref}
+\usepackage{xcolor}
+\usepackage{parskip}
+
+\definecolor{accent}{HTML}{1F3A5F}
+
+\hypersetup{
+  colorlinks=true,
+  urlcolor=accent,
+  linkcolor=accent,
+  pdftitle={Ahnaf An Nafee - Cover Letter - Mistral AI},
+  pdfauthor={Ahnaf An Nafee},
+  pdfsubject={Cover Letter}
+}
+
+\input{glyphtounicode}
+\pdfgentounicode=1
+
+\pagestyle{empty}
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{8pt}
+
+\begin{document}
+
+% --- Header (matches CV) ----------------------------------------------------
+\begin{center}
+  {\LARGE\bfseries\color{accent} Ahnaf An Nafee}\\[3pt]
+  {\small Software Engineer \textbar{} AI Researcher \textbar{} DevOps \& Cloud Infrastructure}\\[4pt]
+  \small
+  \href{mailto:ahnafnafee@gmail.com}{ahnafnafee@gmail.com} \textbar{}
+  Fairfax, VA\\
+  \href{https://linkedin.com/in/ahnafnafee}{linkedin.com/in/ahnafnafee} \textbar{}
+  \href{https://github.com/ahnafnafee}{github.com/ahnafnafee} \textbar{}
+  \href{https://www.ahnafnafee.dev}{ahnafnafee.dev}
+\end{center}
+
+\vspace{20pt}
+
+% --- Date -------------------------------------------------------------------
+April 27, 2026
+
+% --- Recipient block --------------------------------------------------------
+Mistral Hiring Team\\Mistral AI\\New York, NY
+
+% --- Subject ----------------------------------------------------------------
+\textbf{Re: Site Reliability Engineer -- NYC}
+
+% --- Greeting ---------------------------------------------------------------
+Dear Mistral Hiring Team,
+
+% --- Body -------------------------------------------------------------------
+Mistral's position as an independent European frontier-LLM lab -- shipping open-weight Mistral and Mixtral models while standing up a new NYC office -- is the rare place where reliability engineering compounds with research output rather than gating it. I am writing because the Site Reliability Engineer charter you have published is the exact intersection I have been building toward: cloud-agnostic Kubernetes platforms that span inference APIs and large training runs, with security and observability as first-class citizens. I have spent the last several years standing up enterprise OpenShift and Kubernetes at scale, and I am ready to bring that reliability rigor to model-training and inference infrastructure.
+
+At Paychex, I architected a cross-team standardization of Kubernetes/OpenShift deployment dictionaries across more than ten service teams, eliminating configuration drift and giving the platform a single shared abstraction -- the same cloud-agnostic-platform shape your charter describes. I automated end-to-end TLS certificate lifecycle management and eliminated 100\% of certificate-expiration-related downtime, then rolled out RBAC policies in partnership with the security team to harden the platform against privilege-escalation risk. As CTO at Dynasty 11, I led a monolith-to-microservices migration on AWS that cut cloud spend by 80\% through right-sizing, autoscaling, and serverless adoption -- cost-aware reliability matters at LLM-training scale -- and introduced CI/CD with GitHub Actions and Maven that reduced manual release effort by 85\%. On the years-of-experience bar: I bring roughly 3.5 years of direct DevOps/SRE work plus a year of CTO-level infrastructure ownership, and I am currently a CS PhD candidate at George Mason's DCXR Lab researching generative AI and graphics pipelines, so the hybrid of hands-on platform craft and applied-AI research is the breadth I would bring to a research-adjacent SRE seat.
+
+What pulls me to Mistral specifically is the open-weights philosophy -- it resonates with the open, reproducible posture I have practiced in academic AI research, and it is the kind of culture where SRE for model training is technical work that compounds rather than disappears behind a closed API. I would welcome a conversation about how I can contribute to the NYC infrastructure build-out.
+
+% --- Closing ----------------------------------------------------------------
+Sincerely,
+
+\vspace{18pt}
+Ahnaf An Nafee
+
+\end{document}

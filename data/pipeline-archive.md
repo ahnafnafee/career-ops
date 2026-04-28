@@ -1,0 +1,646 @@
+# Pipeline Archive
+
+These 631 entries were filtered out by `filter-pipeline.mjs`.
+
+| Reason | Count |
+|--------|-------|
+| Non-US location | 525 |
+| Sponsorship-blocked (US Gov / Clearance / US-Person) | 18 |
+| Sales-adjacent role | 57 |
+| Company disabled in portals.yml | 31 |
+
+If any of these turn out to be relevant, copy them back to `data/pipeline.md` manually.
+
+---
+
+- https://job-boards.eu.greenhouse.io/polyai/jobs/4802138101 | PolyAI | Agent Designer | Canada | drop: sales-only
+- https://job-boards.eu.greenhouse.io/polyai/jobs/4831089101 | PolyAI | Agent Design Manager | London, United Kingdom | drop: non-us location
+- https://job-boards.greenhouse.io/intercom/jobs/7583139 | Intercom | Account Executive, Emerging AI Products | Dublin, Ireland | drop: sales-only
+- https://job-boards.greenhouse.io/intercom/jobs/7824137 | Intercom | AI Infrastructure Engineer | London, England | drop: non-us location
+- https://job-boards.greenhouse.io/intercom/jobs/7807509 | Intercom | Business Development Representative, Emerging AI Products | Chicago, Illinois | drop: sales-only
+- https://job-boards.greenhouse.io/intercom/jobs/7818585 | Intercom | Engineering Manager, AI Models Infrastructure | Dublin, Ireland | drop: non-us location
+- https://job-boards.greenhouse.io/intercom/jobs/7765466 | Intercom | Engineering Manager, Forward Deployed Engineering | London, England | drop: non-us location
+- https://job-boards.greenhouse.io/intercom/jobs/7556413 | Intercom | Forward Deployed Software Engineer | London, England | drop: non-us location
+- https://job-boards.greenhouse.io/intercom/jobs/7725837 | Intercom | Principal Engineer, Fin AI Agent | Berlin, Germany | drop: non-us location
+- https://job-boards.greenhouse.io/intercom/jobs/5663703 | Intercom | Product Manager | London, England | drop: non-us location
+- https://job-boards.greenhouse.io/intercom/jobs/7314809 | Intercom | Senior Data Scientist - AI Tooling | Dublin, Ireland; London, England | drop: non-us location
+- https://job-boards.greenhouse.io/intercom/jobs/7606638 | Intercom | Senior Data Scientist AI Tooling | Dublin, Ireland | drop: non-us location
+- https://job-boards.greenhouse.io/intercom/jobs/6949785 | Intercom | Senior Engineer, AI Developer | Dublin, Ireland | drop: non-us location
+- https://job-boards.greenhouse.io/intercom/jobs/7825849 | Intercom | Senior Engineering Manager, Fin AI Agent | Berlin, Germany | drop: non-us location
+- https://job-boards.greenhouse.io/intercom/jobs/7218259 | Intercom | Senior Forward Deployed Engineer | Dublin, Ireland | drop: non-us location
+- https://job-boards.greenhouse.io/intercom/jobs/7411373 | Intercom | Senior ML Science Manager | Dublin, Ireland | drop: non-us location
+- https://job-boards.greenhouse.io/intercom/jobs/6276021 | Intercom | Senior Product Engineer, AI | Dublin, Ireland; London, England | drop: non-us location
+- https://job-boards.greenhouse.io/intercom/jobs/6466001 | Intercom | Senior Product Engineer - AI Platform | Dublin, Ireland | drop: non-us location
+- https://job-boards.greenhouse.io/intercom/jobs/7382846 | Intercom | Senior Product Engineer, AI Platform | Berlin, Germany | drop: non-us location
+- https://job-boards.greenhouse.io/intercom/jobs/7511861 | Intercom | Senior Product Manager, Web | Dublin, Ireland | drop: non-us location
+- https://job-boards.greenhouse.io/intercom/jobs/6758904 | Intercom | Senior Product Manager, Web (Narrative/Content) | London, England | drop: non-us location
+- https://job-boards.greenhouse.io/intercom/jobs/7262006 | Intercom | Senior Solutions Architect | Dublin, Ireland | drop: non-us location
+- https://job-boards.greenhouse.io/intercom/jobs/7594453 | Intercom | Senior Solutions Engineer | Dublin, Ireland | drop: non-us location
+- https://job-boards.greenhouse.io/intercom/jobs/7377200 | Intercom | Staff AI Product Manager | Dublin, Ireland | drop: non-us location
+- https://job-boards.greenhouse.io/intercom/jobs/7462110 | Intercom | Staff Forward Deployed Engineer | London, England | drop: non-us location
+- https://job-boards.greenhouse.io/intercom/jobs/7383963 | Intercom | Staff Product Engineer, AI | Berlin, Germany | drop: non-us location
+- https://job-boards.greenhouse.io/intercom/jobs/7371973 | Intercom | Staff Product Manager | Berlin, Germany | drop: non-us location
+- https://job-boards.greenhouse.io/intercom/jobs/5663720 | Intercom | Staff Product Manager | Dublin, Ireland | drop: non-us location
+- https://job-boards.greenhouse.io/intercom/jobs/7274777 | Intercom | Staff Product Manager - Web Growth | London, England | drop: non-us location
+- https://job-boards.greenhouse.io/anthropic/jobs/5183044008 | Anthropic | Anthropic Fellows Program — AI Safety | London, UK; Ontario, CAN; Remote-Friendly, United States; San Francisco, CA | drop: non-us location
+- https://job-boards.greenhouse.io/anthropic/jobs/5030244008 | Anthropic | Anthropic Fellows Program — AI Security | London, UK; Ontario, CAN; Remote-Friendly, United States; San Francisco, CA | drop: non-us location
+- https://job-boards.greenhouse.io/anthropic/jobs/5183051008 | Anthropic | Anthropic Fellows Program — ML Systems & Performance | London, UK; Ontario, CAN; Remote-Friendly, United States; San Francisco, CA | drop: non-us location
+- https://job-boards.greenhouse.io/anthropic/jobs/5117581008 | Anthropic | Applied AI Architect | Bangalore, India | drop: non-us location
+- https://job-boards.greenhouse.io/anthropic/jobs/5079540008 | Anthropic | Applied AI Architect, Federal Civilian | New York City, NY; Washington, DC | drop: sponsor-blocked
+- https://job-boards.greenhouse.io/anthropic/jobs/5031670008 | Anthropic | Applied AI Architect, Industries | London, UK | drop: non-us location
+- https://job-boards.greenhouse.io/anthropic/jobs/5079511008 | Anthropic | Applied AI Architect, National Security | Washington, DC | drop: sponsor-blocked
+- https://job-boards.greenhouse.io/anthropic/jobs/5112486008 | Anthropic | Applied AI Architect, Partnerships | Paris, France | drop: non-us location
+- https://job-boards.greenhouse.io/anthropic/jobs/5194007008 | Anthropic | Applied AI Architect, Public Sector | London, UK | drop: sponsor-blocked
+- https://job-boards.greenhouse.io/anthropic/jobs/5014500008 | Anthropic | Applied AI Engineer | Seoul, South Korea | drop: non-us location
+- https://job-boards.greenhouse.io/anthropic/jobs/5116274008 | Anthropic | Applied AI Engineer | London, UK | drop: non-us location
+- https://job-boards.greenhouse.io/anthropic/jobs/5104754008 | Anthropic | Enterprise Account Executive, Retail | Tokyo, Japan | drop: sales-only
+- https://job-boards.greenhouse.io/anthropic/jobs/5149112008 | Anthropic | External Affairs, Australia | Canberra, Australia | drop: non-us location
+- https://job-boards.greenhouse.io/anthropic/jobs/5012991008 | Anthropic | Forward Deployed Engineer | London, UK | drop: non-us location
+- https://job-boards.greenhouse.io/anthropic/jobs/5079562008 | Anthropic | Forward Deployed Engineer, Federal Civilian | San Francisco, CA | New York City, NY | Washington, DC | drop: sponsor-blocked
+- https://job-boards.greenhouse.io/anthropic/jobs/5184077008 | Anthropic | Head of ANZ, Applied AI | Sydney, Australia | drop: non-us location
+- https://job-boards.greenhouse.io/anthropic/jobs/5064817008 | Anthropic | Head of Solutions Architects, Applied AI (Korea) | Seoul, South Korea | drop: non-us location
+- https://job-boards.greenhouse.io/anthropic/jobs/5117652008 | Anthropic | Manager of Applied AI Architecture, Industries | Munich, Germany | drop: non-us location
+- https://job-boards.greenhouse.io/anthropic/jobs/5183983008 | Anthropic | Manager of Forward Deployed Engineering | London, UK | drop: non-us location
+- https://job-boards.greenhouse.io/anthropic/jobs/5164616008 | Anthropic | Partner Manager DACH/CEE (AI Boutiques) | Munich, Germany | drop: non-us location
+- https://job-boards.greenhouse.io/anthropic/jobs/5115935008 | Anthropic | Research Engineer, Machine Learning (Reinforcement Learning) | London, UK | drop: non-us location
+- https://job-boards.greenhouse.io/anthropic/jobs/5198074008 | Anthropic | Research Engineer, Machine Learning (RL Velocity) | London, UK | drop: non-us location
+- https://job-boards.greenhouse.io/anthropic/jobs/5119713008 | Anthropic | Research Engineer, Pretraining | London, UK | drop: non-us location
+- https://job-boards.greenhouse.io/anthropic/jobs/4938436008 | Anthropic | Research Engineer, Pretraining Scaling - London | London, UK | drop: non-us location
+- https://job-boards.greenhouse.io/anthropic/jobs/5112018008 | Anthropic | Research Engineer, Production Model Post-Training | Zürich, CH | drop: non-us location
+- https://job-boards.greenhouse.io/anthropic/jobs/5135168008 | Anthropic | Research Engineer / Research Scientist, Pre-training | Zürich, CH | drop: non-us location
+- https://job-boards.greenhouse.io/anthropic/jobs/5126127008 | Anthropic | Research Engineer, Science of Scaling | London, UK | drop: non-us location
+- https://job-boards.greenhouse.io/anthropic/jobs/4610158008 | Anthropic | Research Engineer / Scientist, Alignment Science - London | London, UK | drop: non-us location
+- https://job-boards.greenhouse.io/anthropic/jobs/5126080008 | Anthropic | Solutions Architect, National Security | Washington, DC | drop: sponsor-blocked
+- https://job-boards.greenhouse.io/anthropic/jobs/5101173008 | Anthropic | Staff Software Engineer, AI Reliability Engineering | London, UK | drop: non-us location
+- https://job-boards.greenhouse.io/anthropic/jobs/5041299008 | Anthropic | Strategic Account Executive, Retail & Commercial Banking | San Francisco, CA | New York City, NY | drop: sales-only
+- https://job-boards.eu.greenhouse.io/parloa/jobs/4785260101 | Parloa | Principal Applied Scientist | Berlin Office | drop: non-us location
+- https://job-boards.eu.greenhouse.io/parloa/jobs/4766701101 | Parloa | (Senior) AI Agent Architect | Berlin Office; Munich Office; Remotely in Germany | drop: non-us location
+- https://job-boards.eu.greenhouse.io/parloa/jobs/4782800101 | Parloa | Senior AI Agent Architect | London; Remotely in the UK | drop: non-us location
+- https://job-boards.eu.greenhouse.io/parloa/jobs/4751509101 | Parloa | Senior Forward Deployed Engineer | Berlin Office; Munich Office; Remotely in Germany | drop: non-us location
+- https://job-boards.eu.greenhouse.io/parloa/jobs/4747267101 | Parloa | Senior Forward Deployed Engineer - UK | London | drop: non-us location
+- https://job-boards.greenhouse.io/airtable/jobs/8477376002 | Airtable | Forward Deployed Engineer, EMEA | London, United Kingdom  | drop: non-us location
+- https://job-boards.greenhouse.io/airtable/jobs/8350839002 | Airtable | Senior Contracts Manager, Procurement and AI | San Francisco, CA; New York, NY; Austin, TX; Remote - US | drop: sales-only
+- https://job-boards.greenhouse.io/airtable/jobs/8461582002 | Airtable | Senior Partner Solutions Architect | London; US-Remote | drop: non-us location
+- https://jobs.ashbyhq.com/elevenlabs/3d650946-5ac2-4729-9ae4-129c43fcd0b5 | ElevenLabs | Research Engineer | Poland | drop: non-us location
+- https://jobs.ashbyhq.com/elevenlabs/b081fafb-3659-4bf6-8e87-eb5ccc3ff234 | ElevenLabs | Enterprise Solutions Engineer - Spain | Spain | drop: non-us location
+- https://jobs.ashbyhq.com/elevenlabs/6848ece5-1ce5-4ab4-9dd6-0704cd0f8ecd | ElevenLabs | Deployment Strategist - Spain | Spain | drop: non-us location
+- https://jobs.ashbyhq.com/elevenlabs/1034a604-b714-428b-a9fd-fa8c0cd795cf | ElevenLabs | Enterprise Account Executive - Spain | Spain | drop: sales-only
+- https://jobs.ashbyhq.com/elevenlabs/ce00fe7b-a93a-436b-bd5e-2eff87c48f23 | ElevenLabs | Enterprise Solutions Engineer - France | France | drop: non-us location
+- https://jobs.ashbyhq.com/elevenlabs/81f53be2-dd0e-433d-94bf-d506973be1ed | ElevenLabs | Enterprise Solutions Engineer - Mexico | Mexico | drop: non-us location
+- https://jobs.ashbyhq.com/elevenlabs/3466ba20-f61f-4a51-a1ee-5a24a2217fa8 | ElevenLabs | Enterprise Solutions Engineer - Brazil | Brazil | drop: non-us location
+- https://jobs.ashbyhq.com/elevenlabs/3178581d-ea70-4dee-b018-2ce2d2a18bbe | ElevenLabs | AI Creative Producer | United Kingdom | drop: non-us location
+- https://jobs.ashbyhq.com/elevenlabs/46bad7dc-c8d7-403d-8b10-a2d71c005384 | ElevenLabs | Enterprise Solutions Engineer - LATAM | Mexico | drop: non-us location
+- https://jobs.ashbyhq.com/elevenlabs/b95f7f0b-f22f-4fc4-9d9f-87f5485b0a1f | ElevenLabs | Enterprise Solutions Engineer - EU (German Speaking) | Germany | drop: non-us location
+- https://jobs.ashbyhq.com/elevenlabs/4509df6f-b839-44d6-b31f-d7f364cec949 | ElevenLabs | Enterprise Solutions Engineer - Europe | United Kingdom | drop: non-us location
+- https://jobs.ashbyhq.com/elevenlabs/78f45556-04cc-4f08-abb2-18e639ed9343 | ElevenLabs | B2B Growth Marketing - Agents | United Kingdom | drop: sales-only
+- https://jobs.ashbyhq.com/elevenlabs/f2ae7fe0-67da-48ae-b126-b942899ec7e9 | ElevenLabs | Product Marketing - Agents | United Kingdom | drop: non-us location
+- https://jobs.ashbyhq.com/elevenlabs/7664e3c4-2336-4d1a-90cf-91d1268de10d | ElevenLabs | Forward Deployed Engineer - Software Engineer - Spain | Spain | drop: non-us location
+- https://jobs.ashbyhq.com/elevenlabs/fb1fd9cc-bd6d-4895-be29-4bc37d0c31a0 | ElevenLabs | Solutions Engineer - India | India | drop: non-us location
+- https://jobs.ashbyhq.com/elevenlabs/0f27b962-8ff2-4e1b-b138-769a50391800 | ElevenLabs | GTM Agentic Enablement Lead | United Kingdom | drop: non-us location
+- https://jobs.ashbyhq.com/elevenlabs/5d01b08d-a300-4f29-93e4-039147d7ddd7 | ElevenLabs | Enterprise Solutions Engineer - Oceania | Australia | drop: non-us location
+- https://jobs.ashbyhq.com/elevenlabs/01d0899b-0e40-4af2-a859-5d21962666b1 | ElevenLabs | Infrastructure Engineer (Data & Automations) | United Kingdom | drop: non-us location
+- https://jobs.ashbyhq.com/deepgram/1395ef4d-883a-4006-85a1-4e7d44623431 | Deepgram | Pre-Sales Solutions Engineer (EST or PST) | USA | Remote | drop: sales-only
+- https://jobs.ashbyhq.com/deepgram/9e9ceef6-e22c-4157-906c-91b2da8e22ae | Deepgram | Enterprise Account Executive - AI Platform (B2B Saas/Restaurant Tech Vertical) | San Francisco, CA | drop: sales-only
+- https://jobs.ashbyhq.com/deepgram/7ac1a5bc-f305-4f2a-a547-394566a549b2 | Deepgram | Pre-Sales Solutions Engineer - Europe | EU | Remote | drop: sales-only
+- https://jobs.ashbyhq.com/deepgram/1278975c-e0d8-45be-82dd-8d0d1f2774e5 | Deepgram | Senior Pre-Sales Solutions Engineer - India | APAC | Remote | drop: sales-only
+- https://jobs.ashbyhq.com/deepgram/2fc57802-1d2d-4796-aaea-e00586dc6792 | Deepgram | Senior Forward-Deployed Engineer, Federal | Washington D.C. | drop: sponsor-blocked
+- https://jobs.ashbyhq.com/deepgram/b10db691-f77c-4a65-8f7c-ff9574f53f1e | Deepgram | Senior Solutions Engineer, Federal | Washington D.C. | drop: sponsor-blocked
+- https://jobs.ashbyhq.com/deepgram/b9b27091-1a95-4c31-a304-55c31711887a | Deepgram | Senior Product Marketing Manager, Text-to-Speech (TTS) | USA | Remote | drop: sales-only
+- https://jobs.ashbyhq.com/deepgram/f904ff60-f5d1-45c7-8fa2-8456c47b4204 | Deepgram | Pre-Sales Solutions Engineer (San Francisco, CA) | San Francisco, CA | drop: sales-only
+- https://job-boards.greenhouse.io/arizeai/jobs/5969145004 | Arize AI | AI Application Engineer | Remote (Buenos Aires) | drop: non-us location
+- https://job-boards.greenhouse.io/arizeai/jobs/5793354004 | Arize AI | AI Sales Engineer, EMEA | EMEA (Remote) | drop: sales-only
+- https://job-boards.greenhouse.io/arizeai/jobs/5792327004 | Arize AI | AI Sales Engineer, US | Remote (United States) | drop: sales-only
+- https://job-boards.greenhouse.io/arizeai/jobs/5871524004 | Arize AI | DevOps Support Engineer (Argentina) | Remote (Buenos Aires) | drop: non-us location
+- https://job-boards.greenhouse.io/arizeai/jobs/5970222004 | Arize AI | Senior DevOps Engineer, APJ | Remote (Singapore) | drop: non-us location
+- https://job-boards.greenhouse.io/vercel/jobs/5778418004 | Vercel | Forward-Deployed Engineer | Hybrid - London, Berlin | drop: non-us location
+- https://job-boards.greenhouse.io/vercel/jobs/5804110004 | Vercel | Solutions Architect | Remote - Australia | drop: non-us location
+- https://job-boards.greenhouse.io/gleanwork/jobs/4686368005 | Glean | AI Outcomes Manager | Bangalore, India | drop: non-us location
+- https://job-boards.greenhouse.io/gleanwork/jobs/4621972005 | Glean | AI Outcomes Manager, ANZ | Australia | drop: non-us location
+- https://job-boards.greenhouse.io/gleanwork/jobs/4613925005 | Glean | AI Outcomes Manager, London | London, United Kingdom | drop: non-us location
+- https://job-boards.greenhouse.io/gleanwork/jobs/4586837005 | Glean | AI Outcomes Manager, Singapore | Singapore | drop: non-us location
+- https://job-boards.greenhouse.io/gleanwork/jobs/4673911005 | Glean | AI Outcomes Manager, Sweden | Sweden | drop: non-us location
+- https://job-boards.greenhouse.io/gleanwork/jobs/4675077005 | Glean | Manager, AI Outcomes | Bangalore, India | drop: non-us location
+- https://job-boards.greenhouse.io/gleanwork/jobs/4549192005 | Glean | Partner Solutions Engineer | Japan | drop: non-us location
+- https://job-boards.greenhouse.io/gleanwork/jobs/4577381005 | Glean | Product Designer, AI Products | San Francisco Bay Area | drop: sales-only
+- https://job-boards.greenhouse.io/gleanwork/jobs/4629292005 | Glean | Product Manager | Bangalore, India | drop: non-us location
+- https://job-boards.greenhouse.io/gleanwork/jobs/4597178005 | Glean | Product Manager, Connectors | Bangalore, India | drop: non-us location
+- https://job-boards.greenhouse.io/gleanwork/jobs/4641940005 | Glean | Product Manager, Glean Protect (Security & Governance) | Bangalore, India | drop: non-us location
+- https://job-boards.greenhouse.io/gleanwork/jobs/4591195005 | Glean | Public Sector Solutions Engineer, SLED | Washington, DC | drop: sponsor-blocked
+- https://job-boards.greenhouse.io/gleanwork/jobs/4685396005 | Glean | Senior Solutions Engineer, LATAM | Mexico City, Mexico | drop: non-us location
+- https://job-boards.greenhouse.io/gleanwork/jobs/4434258005 | Glean | Solutions Architect (PST/EST Customer hours) | Bangalore, India | drop: non-us location
+- https://job-boards.greenhouse.io/gleanwork/jobs/4676087005 | Glean | Solutions Engineering Manager | Bangalore, India | drop: non-us location
+- https://jobs.ashbyhq.com/decagon/2ebaf3a1-db73-4d6f-b9d7-fc88989d4827 | Decagon | Engineering Manager, Agents | London | drop: non-us location
+- https://jobs.ashbyhq.com/decagon/95dadea4-8bd2-421a-bf3f-51c04e102ee2 | Decagon | Enterprise Solutions Engineer | Australia | drop: non-us location
+- https://jobs.ashbyhq.com/decagon/060b5fd4-9962-491f-8116-4faa778500d7 | Decagon | Enterprise Solutions Engineer - LATAM | Mexico | drop: non-us location
+- https://job-boards.eu.greenhouse.io/speechmatics/jobs/4838230101 | Speechmatics | ML Platform Engineer | Belgrade, Belgrade, Serbia | drop: non-us location
+- https://job-boards.eu.greenhouse.io/speechmatics/jobs/4673941101 | Speechmatics | Senior Product Manager | London, England, United Kingdom | drop: non-us location
+- https://job-boards.eu.greenhouse.io/speechmatics/jobs/4823688101 | Speechmatics | Solutions Engineer | Mexico City, Mexico City, Mexico | drop: non-us location
+- https://jobs.ashbyhq.com/n8n/d195a389-6af5-4b95-82e5-2258953c7297 | n8n | Sr AI Engineer | Berlin Office | drop: non-us location
+- https://jobs.ashbyhq.com/n8n/5c1d1b67-604c-46b3-9c59-cfe0cd703688 | n8n | Staff LLM Interaction Engineer (Europe remote - TS/Vue/NodeJS) | Berlin Office | drop: non-us location
+- https://jobs.ashbyhq.com/n8n/640d55b3-3603-42f4-a05b-90962768fd16 | n8n | Sr Cloud Engineer | Berlin Office | drop: non-us location
+- https://jobs.ashbyhq.com/n8n/f814f5ce-b615-413d-bbe0-b5786b3872e9 | n8n | AI Engineering Manager | Berlin Office | drop: non-us location
+- https://boomi.com/boomi-jobs/?gh_jid=5971692004 | Boomi | Campaign Marketing Operations Specialist (Hybrid Vancouver) | Canada | drop: non-us location
+- https://boomi.com/boomi-jobs/?gh_jid=5832472004 | Boomi | Partner Senior Solutions Engineer- EMEA | France | drop: non-us location
+- https://boomi.com/boomi-jobs/?gh_jid=5786933004 | Boomi | Principal Software Engineer - AI | Canada | drop: non-us location
+- https://boomi.com/boomi-jobs/?gh_jid=5790106004 | Boomi | Principal Software Engineer. - GenAI | India | drop: non-us location
+- https://boomi.com/boomi-jobs/?gh_jid=5803495004 | Boomi | Product Manager, Boomi AI - Bangalore | India | drop: non-us location
+- https://boomi.com/boomi-jobs/?gh_jid=5963666004 | Boomi | Senior Site Reliability Engineer | Ireland; United Kingdom | drop: non-us location
+- https://boomi.com/boomi-jobs/?gh_jid=5786913004 | Boomi | Senior Software Quality Engineer - AI | Canada | drop: non-us location
+- https://boomi.com/boomi-jobs/?gh_jid=5974117004 | Boomi | Senior Solutions Engineer- France, Remote | France | drop: non-us location
+- https://boomi.com/boomi-jobs/?gh_jid=5974115004 | Boomi | Senior Solutions Engineer- Spain | Spain | drop: non-us location
+- https://boomi.com/boomi-jobs/?gh_jid=5979802004 | Boomi | Senior Solutions Engineer- UK, Remote | United Kingdom | drop: non-us location
+- https://boomi.com/boomi-jobs/?gh_jid=5792761004 | Boomi | Software Principal Engineer - SRE, Production Engineer​ing | India | drop: non-us location
+- https://boomi.com/boomi-jobs/?gh_jid=5789831004 | Boomi | Software Quality Engineer - AI | Canada | drop: non-us location
+- https://jobs.ashbyhq.com/sierra/b7d1dbcd-ca72-472f-b15e-5b4b0f886be0 | Sierra | Software Engineer, Agent | London | drop: non-us location
+- https://jobs.ashbyhq.com/sierra/fed8ca9a-0bb7-44ef-a541-0be6a8ae7bba | Sierra | Product Manager, Agent Development (German speaking) | London | drop: non-us location
+- https://jobs.ashbyhq.com/sierra/548eccd8-85c7-4cfa-a145-1c6ba5c17dc2 | Sierra | Strategist, Agent Development | London | drop: non-us location
+- https://jobs.ashbyhq.com/sierra/38f06024-4ee9-47d6-a36f-f2791ac1e412 | Sierra | Product Manager, Agent Development (French speaking) | London | drop: non-us location
+- https://jobs.ashbyhq.com/sierra/4892f01e-8871-4b32-8963-527f1cf8db5d | Sierra | Product Manager, Agent Development (Spanish speaking) | London | drop: non-us location
+- https://jobs.ashbyhq.com/sierra/9ebc3a79-82bf-478d-bd98-d473d41bdeaf | Sierra | Software Engineer, Agent (German speaking) | London | drop: non-us location
+- https://jobs.ashbyhq.com/sierra/9d9e7d4a-2a27-4f64-9b1f-d79c5d3f129a | Sierra | Software Engineer, Agent (French speaking) | London | drop: non-us location
+- https://jobs.ashbyhq.com/sierra/aadfc0a0-93f6-454b-9767-c24793fa3eff | Sierra | Software Engineer, Agent (Spanish speaking) | London | drop: non-us location
+- https://jobs.ashbyhq.com/sierra/0ff928f7-cca0-4d2b-ae64-c07277ff5252 | Sierra | Software Engineer, Agent (New Grad) | London | drop: non-us location
+- https://jobs.ashbyhq.com/sierra/8d46d44c-8294-4807-a6b1-5087f0506a38 | Sierra | Strategist, Agent Development (Spanish speaking) | Madrid | drop: non-us location
+- https://jobs.ashbyhq.com/sierra/b1fc320b-d0d2-4ca5-9ce3-2ce8f51cf70e | Sierra | Strategist, Agent Development (French speaking) | Paris | drop: non-us location
+- https://jobs.ashbyhq.com/sierra/6207b02d-d334-4000-b84e-2af779171838 | Sierra | Software Engineer, Agent (Italian speaking) | London | drop: non-us location
+- https://jobs.ashbyhq.com/sierra/9dc1651d-43e9-4970-a757-a5223cef1c4d | Sierra | Product Manager, Agent Development (Arabic speaking) | London | drop: non-us location
+- https://jobs.ashbyhq.com/sierra/1045b1db-228b-40df-97d8-a8f9371d35bd | Sierra | Strategist, Agent Development (German speaking) | London | drop: non-us location
+- https://jobs.ashbyhq.com/sierra/034c2c56-357f-4ed2-9da7-f4d36a999385 | Sierra | Strategist, Agent Development (Arabic speaking) | London | drop: non-us location
+- https://jobs.ashbyhq.com/sierra/edf44ab4-538b-4e65-b93c-392c950b9fe6 | Sierra | Product Manager, Agent Development | Tokyo | drop: non-us location
+- https://jobs.ashbyhq.com/sierra/2e07f536-bbaa-4cc0-957a-774ddf99de64 | Sierra | Product Manager, Agent Development (Italian speaking) | London | drop: non-us location
+- https://jobs.ashbyhq.com/sierra/ce463311-0c6c-43d9-ab79-dd751743104f | Sierra | Software Engineer, Agent (Arabic speaking) | London | drop: non-us location
+- https://jobs.ashbyhq.com/sierra/0e73be8d-e05f-4c47-aa74-416b2984334c | Sierra | Strategist, Agent Development (Italian speaking) | London | drop: non-us location
+- https://jobs.ashbyhq.com/sierra/44120ba5-4cf7-48a1-86af-7981c41c179e | Sierra | Strategist, Agent Development | Munich | drop: non-us location
+- https://jobs.ashbyhq.com/sierra/1a0a0334-41f8-4c15-9ed8-615336855e5e | Sierra | Engineering Manager, Agent | London | drop: non-us location
+- https://jobs.ashbyhq.com/sierra/1a0e307f-7f02-4971-820c-a244ad909617 | Sierra | Agent Experience Designer, Voice (Multilingual) | San Francisco, CA | drop: sales-only
+- https://jobs.ashbyhq.com/sierra/39355227-d7a2-4066-b930-2bf2eeebc20c | Sierra | Sales Engineer (Spain) | Madrid | drop: sales-only
+- https://jobs.ashbyhq.com/sierra/b8a89b9a-70a1-4e47-874c-41542d1bc60a | Sierra | Software Engineer, Agent (Korean Speaking) | Singapore | drop: non-us location
+- https://jobs.ashbyhq.com/sierra/1162dcd2-b181-49d5-9316-342cd68acbed | Sierra | Software Engineer, Agent (Thai Speaking) | Singapore | drop: non-us location
+- https://jobs.ashbyhq.com/sierra/a4541730-ae7f-4771-b3e9-7f9da6cc5d23 | Sierra | Software Engineer, Agent (Cantonese Speaking) | Singapore | drop: non-us location
+- https://jobs.ashbyhq.com/klue/cbbbb573-daca-4208-bad6-19b879be50aa | Klue | Marketing Automation Manager | Vancouver, British Columbia | drop: non-us location
+- https://jobs.ashbyhq.com/klue/945251b8-ecf0-47da-a04c-e3697445e4a7 | Klue | Senior Software Engineer, AI (Agents) | Vancouver, British Columbia | drop: non-us location
+- https://jobs.ashbyhq.com/klue/2fdcccfe-6520-4536-a7f3-3acf79829784 | Klue | Senior Software Engineer, AI | Toronto, Ontario | drop: non-us location
+- https://jobs.ashbyhq.com/klue/98227b52-ff84-440e-a14c-5ad3888f1d10 | Klue | Software Engineer, AI | Toronto, Ontario | drop: non-us location
+- https://jobs.ashbyhq.com/langchain/671f9372-8646-4f6a-a473-61bfa7cafa4b | LangChain | Deployed Engineer (Amsterdam) | Amsterdam | drop: non-us location
+- https://jobs.ashbyhq.com/langchain/650a8598-2b20-40b8-a4d7-4a9196fe3609 | LangChain | Deployed Engineer (Sydney) | Australia | drop: non-us location
+- https://jobs.ashbyhq.com/langchain/5f5f8239-603c-47ca-a1ee-5a7ed34b502d | LangChain | Deployed Engineer (UK) | London | drop: non-us location
+- https://jobs.ashbyhq.com/langchain/58edb2a9-a1b7-4b10-86a4-4bf6957cc6f4 | LangChain | Deployed Engineer (Toronto) | Toronto | drop: non-us location
+- https://jobs.ashbyhq.com/langchain/1b28dcf7-04c1-4bc1-9e16-d288ce634cd2 | LangChain | Customer Engineer (Amsterdam) | Amsterdam | drop: non-us location
+- https://jobs.ashbyhq.com/langchain/a16d58f7-e210-495c-9e6f-82222267de3a | LangChain | Customer Engineer (London) | London | drop: non-us location
+- https://jobs.ashbyhq.com/langchain/31ff2b5b-d5c5-443e-bf11-ef02481df579 | LangChain | Deployed Engineer (Germany) | Germany | drop: non-us location
+- https://jobs.ashbyhq.com/langchain/31483b31-68c5-4603-8a84-0051634100c0 | LangChain | Deployed Engineer (Stockholm) | Sweden | drop: non-us location
+- https://jobs.ashbyhq.com/langchain/fc868832-3865-4f4a-8222-33422a7d3d96 | LangChain | Solutions Architect (Amsterdam) | Amsterdam | drop: non-us location
+- https://jobs.ashbyhq.com/langchain/faeb56fd-e7d6-47d6-babe-e35315969206 | LangChain | Solutions Architect (London) | London | drop: non-us location
+- https://jobs.ashbyhq.com/cohere/6142564c-1e47-48f7-9519-2ce857c92ed9 | Cohere | Senior Member of Technical Staff, MLE (Middle East) | Riyadh | drop: non-us location
+- https://jobs.ashbyhq.com/cohere/bda8d35e-92c2-4b01-b4ed-e43fe0a49aba | Cohere | Member of Technical Staff, MLE (North) | London | drop: non-us location
+- https://jobs.ashbyhq.com/cohere/d42f5fd4-1ffc-45b9-957c-f09862db6af6 | Cohere | Member of Technical Staff, Training Performance Engineer | London | drop: non-us location
+- https://jobs.ashbyhq.com/cohere/a13207e7-dc82-473f-8ca4-e832452fe8c3 | Cohere | Member of Technical Staff, Training Infra Engineer | Paris | drop: non-us location
+- https://jobs.ashbyhq.com/cohere/6d0f0753-ff22-46fd-90e9-08998914a8e7 | Cohere | Solutions Architect - Public Sector | Washington, DC | drop: sponsor-blocked
+- https://jobs.ashbyhq.com/cohere/554a9380-ab50-4338-88a9-c6b8ab19d92e | Cohere | Member of Technical Staff, Post-Training | London | drop: non-us location
+- https://jobs.ashbyhq.com/cohere/859e2e47-02fb-4afe-bb8a-e83bf4d8c265 | Cohere | Member of Technical Staff, Pre-Training Data | Toronto | drop: non-us location
+- https://jobs.ashbyhq.com/cohere/f931c326-4d16-44b3-812c-99378c60280f | Cohere | Member of Technical Staff, Next Generation Agents | London | drop: non-us location
+- https://jobs.ashbyhq.com/cohere/cb5d588c-5637-423a-968b-bf637ee2caf9 | Cohere | Senior Research Engineer, Model Evaluation | Toronto | drop: non-us location
+- https://jobs.ashbyhq.com/cohere/ca446389-c793-459b-b07a-a3544defea04 | Cohere | Solutions Architect | Japan | drop: non-us location
+- https://jobs.ashbyhq.com/cohere/e9ef9420-88e5-403b-82e8-1c36fa010d4d | Cohere | Member of Technical Staff, Integration/RL Team (Research Engineer) | Paris | drop: non-us location
+- https://jobs.ashbyhq.com/cohere/69a9ab2e-a7eb-4c4f-825a-5c25cf063900 | Cohere | Forward Deployed Engineer, Infrastructure Specialist (UK/EU/ME) | United Kingdom | drop: non-us location
+- https://jobs.ashbyhq.com/cohere/be48aafc-9610-4ebd-8414-a0722a3cd59a | Cohere | Forward Deployed Engineer, Infrastructure Specialist (North America) | Toronto | drop: non-us location
+- https://jobs.ashbyhq.com/cohere/70a8dc77-ac84-4790-aff6-13b4dcd4554a | Cohere | Member of Technical Staff, Agent Code | London | drop: non-us location
+- https://jobs.ashbyhq.com/cohere/7ec9eaf4-8cfc-4977-9041-86f73e7ab10b | Cohere | Senior Research Scientist, Cohere Labs | London | drop: non-us location
+- https://jobs.ashbyhq.com/cohere/df93ec57-d51e-4466-93be-4878c5fda4da | Cohere | Software Engineer - Applied ML - UK Public Sector | London | drop: sponsor-blocked
+- https://jobs.ashbyhq.com/cohere/876a2d31-e6c3-497b-9c8e-0b7d111fb4cd | Cohere | Member of Technical Staff, MLE (UK/EU) | London | drop: non-us location
+- https://jobs.ashbyhq.com/cohere/830c613b-d4bf-4673-ab33-46ccc12cc415 | Cohere | Senior Research Scientist, Model Evaluation | Toronto | drop: non-us location
+- https://jobs.ashbyhq.com/cohere/b9306620-a110-46b5-b4c4-7363e1d03a8d | Cohere | Member of Technical Staff - Sovereign AI | Canada | drop: non-us location
+- https://jobs.ashbyhq.com/cohere/38f75a48-199c-4325-a7f8-2af6ed6a1b3b | Cohere | Forward Deployed Engineer, Infrastructure Specialist | Japan | drop: non-us location
+- https://jobs.ashbyhq.com/cohere/b0bcef37-1d20-414f-aade-c54942d63df9 | Cohere | Forward Deployed Engineer, Agentic Platform | Toronto | drop: non-us location
+- https://jobs.ashbyhq.com/cohere/6745547c-cc72-466c-867c-a0539b04909b | Cohere | Forward Deployed Engineer, Prompt Specialist | Toronto | drop: non-us location
+- https://jobs.ashbyhq.com/cohere/c99e61c9-ed92-426d-9711-188dfc0f729f | Cohere | Senior ML Systems Engineer, Frameworks & Tooling | London | drop: non-us location
+- https://jobs.ashbyhq.com/cohere/a5bbd015-65a9-48a1-aab1-b266bdbc9905 | Cohere | Senior Software Engineer, Security Agents | Toronto | drop: non-us location
+- https://jobs.ashbyhq.com/cohere/8b6696e1-f1c4-4010-bde9-3cec1340a2a6 | Cohere | Site Reliability Engineer, Inference Infrastructure | Toronto | drop: non-us location
+- https://jobs.ashbyhq.com/cohere/a29a310d-074e-46f2-bdad-308d458d4011 | Cohere | Member of Technical Staff, MLE [Singapore] | Singapore | drop: non-us location
+- https://jobs.ashbyhq.com/cohere/9c18b199-cd1f-4ef3-9fab-ce05589348ae | Cohere | Applied AI Engineer - Agentic Workflows (Singapore) | Singapore | drop: non-us location
+- https://jobs.ashbyhq.com/cohere/1a5925d0-41bd-4549-9b78-f427a2dda922 | Cohere | Research Engineer | Toronto | drop: non-us location
+- https://jobs.ashbyhq.com/cohere/7340d993-45eb-4a3b-925e-e4b10035544c | Cohere | Lead, Government Affairs - APAC | Korea | drop: sales-only
+- https://jobs.ashbyhq.com/cohere/70664617-84f6-4ee8-a4f6-4037ebfda9db | Cohere | Senior Software Engineer, Agent Infrastructure | Toronto | drop: non-us location
+- https://jobs.ashbyhq.com/cohere/fe2e2971-e2c0-43fd-9ab1-187571776a5d | Cohere | Product Manager,  Platform Experience & Developer Product | Toronto | drop: non-us location
+- https://jobs.ashbyhq.com/cohere/f8e85a7c-1eb0-47f8-8140-1c4e7892f17d | Cohere | Technical Program Manager, AI Delivery for Public Sector & Defence | Germany | drop: sponsor-blocked
+- https://jobs.ashbyhq.com/cohere/2a7f1fad-05ff-4260-af36-556d1d694775 | Cohere | Product Manager, Public Sector & Defence | Canada | drop: sponsor-blocked
+- https://jobs.ashbyhq.com/cohere/1d1b300d-254b-48c4-958f-99c6b907f295 | Cohere | Product Manager, Agent Harness & Modelling | Toronto | drop: non-us location
+- https://jobs.ashbyhq.com/cohere/1f7cc5e6-5f31-40d8-ad49-fe22c98a3ea4 | Cohere | Member of Technical Staff, Safety for Agents | London | drop: non-us location
+- https://jobs.ashbyhq.com/cohere/013d4545-8343-40f1-9de5-9fdc0f0dd5bb | Cohere | Manager of Technical Staff, Sovereign AI | Toronto | drop: non-us location
+- https://careers.hootsuite.com/job/?gh_jid=7800234 | Hootsuite | Associate Product Manager | London, UK; Luxembourg, Luxembourg; Toronto, Canada | drop: non-us location
+- https://careers.hootsuite.com/job/?gh_jid=7717102 | Hootsuite | Intermediate Software Developer, DevOps | Hasslet, Belgium | drop: non-us location
+- https://careers.hootsuite.com/job/?gh_jid=7741151 | Hootsuite | Senior Software Developer, DevOps | Vancouver, British Columbia, Canada; Victoria, British Columbia, Canada | drop: non-us location
+- https://careers.hootsuite.com/job/?gh_jid=7784300 | Hootsuite | Senior Solutions Architect | London, England, United Kingdom; Luxembourg, Luxembourg | drop: non-us location
+- https://job-boards.greenhouse.io/later/jobs/8444485002 | Later | ML Infrastructure Engineer | Vancouver, British Columbia, Canada | drop: non-us location
+- https://jobs.ashbyhq.com/attio/c05a61a4-ae7c-4d93-a920-08d60c7448ad | Attio | Senior Platform Engineer | London | drop: non-us location
+- https://jobs.ashbyhq.com/AlephAlpha/2faca6ec-69bd-4e04-b055-05f24ddf0f4d | Aleph Alpha | Senior Performance Engineer- Pretraining (f/m/d) | Heidelberg | drop: non-us location
+- https://jobs.ashbyhq.com/AlephAlpha/af5ac8a9-31a7-4017-9cd9-0a8b360ad937 | Aleph Alpha | Senior AI Engineer – Pre-training Data (f/m/d) | Heidelberg | drop: non-us location
+- https://jobs.ashbyhq.com/AlephAlpha/ed326a0a-1cab-425a-b9c1-ae617d6d1cce | Aleph Alpha | Senior AI Researcher- Reinforcement learning (f/m/d) | Heidelberg | drop: non-us location
+- https://jobs.ashbyhq.com/AlephAlpha/0628691f-7d3e-416d-9358-3b55859e1bbb | Aleph Alpha | Senior AI Researcher - Pre-training Data | Heidelberg | drop: non-us location
+- https://jobs.ashbyhq.com/AlephAlpha/80dc6ee6-dece-4d4b-9906-ea930338f245 | Aleph Alpha | Senior AI Researcher - Pre-training (f/m/d) | Heidelberg | drop: non-us location
+- https://jobs.ashbyhq.com/AlephAlpha/1963147c-dc27-416e-b432-065295733bef | Aleph Alpha | Senior AI Software Engineer - Model Evaluation (f/m/d) | Heidelberg | drop: non-us location
+- https://jobs.ashbyhq.com/DeepL/b934f001-00f5-473e-b53f-9426e2bbc432 | DeepL | Senior Staff Research Scientist | Cologne | drop: non-us location
+- https://jobs.ashbyhq.com/DeepL/d262b540-9219-45c6-93b5-666611095b9f | DeepL | (Senior) Staff Research Scientist | Munich | drop: non-us location
+- https://jobs.ashbyhq.com/DeepL/08d92b33-3ced-4d47-be31-3323e4c18b8b | DeepL | Staff Product Manager | Berlin | drop: non-us location
+- https://jobs.ashbyhq.com/DeepL/734dfbcf-9cbb-4259-848a-35d304355e77 | DeepL | Group Product Manager | Berlin | drop: non-us location
+- https://jobs.ashbyhq.com/DeepL/12bb7bfb-a4e9-41a5-98bd-2409365b6a5e | DeepL | Senior Salesforce Engineer (AI Enabled) | London | drop: non-us location
+- https://jobs.ashbyhq.com/DeepL/e7aa04c9-f2da-4725-ad95-920a428e0958 | DeepL | Staff Research Scientist | Cologne | drop: non-us location
+- https://jobs.ashbyhq.com/DeepL/e53c38c2-01ef-40e2-a70d-a8a5be50675b | DeepL | AI Research Manager | Munich | drop: non-us location
+- https://jobs.ashbyhq.com/DeepL/dc59654e-c78d-4ef9-b99d-a961b86ba5c3 | DeepL | Account Executive - Enterprise (Kansai) 関西担当営業 | Tokyo | drop: sales-only
+- https://jobs.ashbyhq.com/DeepL/90a13fcd-4a4f-4fc2-b0d6-7954a0a14569 | DeepL | Director, Performance Marketing & Campaigns | London | drop: non-us location
+- https://jobs.ashbyhq.com/DeepL/0bbe4145-f05c-4c60-92d8-a8f80113657f | DeepL | Senior Salesforce Platform Analyst (AI Enabled) | London | drop: non-us location
+- https://job-boards.greenhouse.io/blackforestlabs/jobs/4925659008 | Black Forest Labs | Member of Technical Staff - Infrastructure Engineer | Freiburg (Germany), San Francisco (USA) | drop: non-us location
+- https://job-boards.greenhouse.io/blackforestlabs/jobs/5193512008 | Black Forest Labs | Member of Technical Staff - Post Training | Freiburg (Germany) | drop: non-us location
+- https://job-boards.greenhouse.io/blackforestlabs/jobs/5193508008 | Black Forest Labs | Member of Technical Staff - Pretraining | Freiburg (Germany) | drop: non-us location
+- https://helsing.ai/jobs/4334849101?gh_jid=4334849101 | Helsing | AI Research Engineer - AI Safety | Berlin; London; Munich | drop: non-us location
+- https://helsing.ai/jobs/4334842101?gh_jid=4334842101 | Helsing | AI Research Engineer -  Computer Vision | Berlin; London; Munich | drop: non-us location
+- https://helsing.ai/jobs/4766708101?gh_jid=4766708101 | Helsing | AI Research Engineer - Foundation Models | Berlin; London; Munich; Paris | drop: non-us location
+- https://helsing.ai/jobs/4778869101?gh_jid=4778869101 | Helsing | AI Research Engineer - ML Engineering | Berlin; London; Munich | drop: non-us location
+- https://helsing.ai/jobs/4676357101?gh_jid=4676357101 | Helsing | AI Research Engineer - Reinforcement Learning | Berlin; London; Munich | drop: non-us location
+- https://helsing.ai/jobs/4423924101?gh_jid=4423924101 | Helsing | AI Research Engineer - Robotics | Barcelona; Paris | drop: non-us location
+- https://helsing.ai/jobs/4372802101?gh_jid=4372802101 | Helsing | AI Research Engineer - Signal Processing | Berlin; Munich | drop: non-us location
+- https://helsing.ai/jobs/4312517101?gh_jid=4312517101 | Helsing | AI Working Student - Computer Vision | Munich | drop: non-us location
+- https://helsing.ai/jobs/4848980101?gh_jid=4848980101 | Helsing | Associate Programme Manager - Air | Munich - Berlin | drop: non-us location
+- https://helsing.ai/jobs/4516967101?gh_jid=4516967101 | Helsing | Deployed AI Engineer | Munich - Berlin - London - Paris - Warsaw - Tallinn; Stockholm | drop: non-us location
+- https://helsing.ai/jobs/4803015101?gh_jid=4803015101 | Helsing | People Business Partner France & Spain - Fixed-term contract (6 months) | Paris | drop: non-us location
+- https://helsing.ai/jobs/4124326101?gh_jid=4124326101 | Helsing | Product Manager | Munich - Berlin - London | drop: non-us location
+- https://helsing.ai/jobs/4790417101?gh_jid=4790417101 | Helsing | Product Manager - Development, Testing & Validation Platform | Munich - Berlin | drop: non-us location
+- https://helsing.ai/jobs/4785352101?gh_jid=4785352101 | Helsing | Product Manager - Space | Munich; Munich - Berlin | drop: non-us location
+- https://helsing.ai/jobs/4849032101?gh_jid=4849032101 | Helsing | Senior Programme Manager - Air | Munich - Berlin | drop: non-us location
+- https://helsing.ai/jobs/4347030101?gh_jid=4347030101 | Helsing | Site Reliability Engineer | Berlin; London; Munich | drop: non-us location
+- https://helsing.ai/jobs/4741565101?gh_jid=4741565101 | Helsing | Software Engineer - Airborne Mission Systems | Berlin; Munich | drop: non-us location
+- https://helsing.ai/jobs/4741571101?gh_jid=4741571101 | Helsing | Software Engineer - Autonomous Air Systems | Berlin; Munich | drop: non-us location
+- https://helsing.ai/jobs/4741219101?gh_jid=4741219101 | Helsing | Software Engineer - Autonomous Air System V&V | Berlin; Munich | drop: non-us location
+- https://helsing.ai/jobs/4741224101?gh_jid=4741224101 | Helsing | Software Engineer - Frontend Autonomous Air System V&V | Berlin; Munich | drop: non-us location
+- https://helsing.ai/jobs/4741242101?gh_jid=4741242101 | Helsing | Software Engineer - Ground to Air HMI | Berlin; Munich | drop: non-us location
+- https://helsing.ai/jobs/4787205101?gh_jid=4787205101 | Helsing | Systems Engineer - Command and Control (Air) | Munich | drop: non-us location
+- https://job-boards.greenhouse.io/celonis/jobs/7493307003?gh_jid=7493307003 | Celonis | Account Executive - Retail | Remote, US, Minnesota | drop: sales-only
+- https://job-boards.greenhouse.io/celonis/jobs/7681593003?gh_jid=7681593003 | Celonis | Applied AI Engineer | Bangalore, India | drop: non-us location
+- https://job-boards.greenhouse.io/celonis/jobs/7635462003?gh_jid=7635462003 | Celonis | Applied AI Value Engineer | Bangalore, India | drop: non-us location
+- https://job-boards.greenhouse.io/celonis/jobs/7711782003?gh_jid=7711782003 | Celonis | Applied Engineer (Pre-Sales) - Supply Chain | Milan, Italy | drop: sales-only
+- https://job-boards.greenhouse.io/celonis/jobs/7662738003?gh_jid=7662738003 | Celonis | Associate Applied AI Engineer (APAC) - Orbit Program | Madrid, Spain | drop: non-us location
+- https://job-boards.greenhouse.io/celonis/jobs/7662718003?gh_jid=7662718003 | Celonis | Associate Applied AI Engineer (Japan) - Orbit Program | Madrid, Spain | drop: non-us location
+- https://job-boards.greenhouse.io/celonis/jobs/7669112003?gh_jid=7669112003 | Celonis | Associate Applied AI Engineer (Madrid/Spain) - Orbit Program | Tokyo, Japan | drop: non-us location
+- https://job-boards.greenhouse.io/celonis/jobs/7683568003?gh_jid=7683568003 | Celonis | Client Engagement Partner - AI-Driven Transformation & Process Intelligence | Zürich, Switzerland | drop: non-us location
+- https://job-boards.greenhouse.io/celonis/jobs/7714520003?gh_jid=7714520003 | Celonis | Client Value Partner - AI-Driven Transformation & Process Intelligence | Paris, France | drop: non-us location
+- https://job-boards.greenhouse.io/celonis/jobs/7669258003?gh_jid=7669258003 | Celonis | Client Value Partner (CVP) - AI-Driven Transformation & Process Intelligence | Zürich, Switzerland | drop: non-us location
+- https://job-boards.greenhouse.io/celonis/jobs/7676432003?gh_jid=7676432003 | Celonis | Engineering Manager - Orchestration and Automation | Madrid, Spain | drop: non-us location
+- https://job-boards.greenhouse.io/celonis/jobs/6313858003?gh_jid=6313858003 | Celonis | Head of Industry - Retail & CPG | Munich, Germany | drop: non-us location
+- https://job-boards.greenhouse.io/celonis/jobs/6320587003?gh_jid=6320587003 | Celonis | Lead AI Deployment Architect | Tokyo, Japan | drop: non-us location
+- https://job-boards.greenhouse.io/celonis/jobs/7635142003?gh_jid=7635142003 | Celonis | Lead Applied AI Engineer (Value Engineering) - Scale | Bangalore, India | drop: non-us location
+- https://job-boards.greenhouse.io/celonis/jobs/7635342003?gh_jid=7635342003 | Celonis | Lead Value Engineering - Consumer Packaged Good and Retail | Bangalore, India | drop: non-us location
+- https://job-boards.greenhouse.io/celonis/jobs/7544126003?gh_jid=7544126003 | Celonis | Manager, Value Engineering - Public Sector Transformation | Munich, Germany | drop: sponsor-blocked
+- https://job-boards.greenhouse.io/celonis/jobs/7618605003?gh_jid=7618605003 | Celonis | Principal AI Deployment Architect | Madrid, Spain | drop: non-us location
+- https://job-boards.greenhouse.io/celonis/jobs/7532066003?gh_jid=7532066003 | Celonis | Principal Consultant - AI Governance | Madrid, Spain | drop: non-us location
+- https://job-boards.greenhouse.io/celonis/jobs/7687700003?gh_jid=7687700003 | Celonis | Research Engineer - Process Mining Technology | Aachen, Germany | drop: non-us location
+- https://job-boards.greenhouse.io/celonis/jobs/7704260003?gh_jid=7704260003 | Celonis | Senior AI Deployment Architect | London, United Kingdom | drop: non-us location
+- https://job-boards.greenhouse.io/celonis/jobs/7479634003?gh_jid=7479634003 | Celonis | Senior Applied AI Engineer | Amsterdam, Netherlands | drop: non-us location
+- https://job-boards.greenhouse.io/celonis/jobs/7695046003?gh_jid=7695046003 | Celonis | Senior Applied AI Engineer - Manufacturing/Supply Chain | Stockholm, Sweden | drop: sales-only
+- https://job-boards.greenhouse.io/celonis/jobs/7681606003?gh_jid=7681606003 | Celonis | Senior Applied AI Engineer - Public Sector | Paris, France | drop: sponsor-blocked
+- https://job-boards.greenhouse.io/celonis/jobs/7614505003?gh_jid=7614505003 | Celonis | Senior Applied AI Engineer (Value Engineering) - EMEA/UKIE | Bangalore, India | drop: non-us location
+- https://job-boards.greenhouse.io/celonis/jobs/7695047003?gh_jid=7695047003 | Celonis | Senior Applied AI Solutions Architect - Process Intelligence | Stockholm, Sweden | drop: non-us location
+- https://job-boards.greenhouse.io/celonis/jobs/7683570003?gh_jid=7683570003 | Celonis | Senior Applied AI Solutions Architect - Process Intelligence (Public Sector) | Paris, France | drop: sponsor-blocked
+- https://job-boards.greenhouse.io/celonis/jobs/7661696003?gh_jid=7661696003 | Celonis | Senior Applied AI Solutions Consultant | Amsterdam, Netherlands | drop: non-us location
+- https://job-boards.greenhouse.io/celonis/jobs/7695043003?gh_jid=7695043003 | Celonis | Senior Applied AI Solutions Consultant | Copenhagen, Denmark | drop: non-us location
+- https://job-boards.greenhouse.io/celonis/jobs/7683572003?gh_jid=7683572003 | Celonis | Senior Applied AI Solutions Consultant (Public Sector) | Paris, France | drop: sponsor-blocked
+- https://job-boards.greenhouse.io/celonis/jobs/7635110003?gh_jid=7635110003 | Celonis | Senior Applied Value Engineer - Consumer Products and Retail | Bangalore, India | drop: non-us location
+- https://job-boards.greenhouse.io/celonis/jobs/7586202003?gh_jid=7586202003 | Celonis | Senior Business Transformation & Process Optimisation Consultant | Munich, Germany | drop: non-us location
+- https://job-boards.greenhouse.io/celonis/jobs/7594944003?gh_jid=7594944003 | Celonis | Senior Consultant - Data Analytics and Supply Chain Transformation | Munich, Germany | drop: sales-only
+- https://job-boards.greenhouse.io/celonis/jobs/7661697003?gh_jid=7661697003 | Celonis | Senior Management & Technology Consultant - AI & Process Analytics | Amsterdam, Netherlands | drop: non-us location
+- https://job-boards.greenhouse.io/celonis/jobs/7683575003?gh_jid=7683575003 | Celonis | Senior Management & Technology Consultant - AI & Process Analytics (Public Sector) | Paris, France | drop: sponsor-blocked
+- https://job-boards.greenhouse.io/celonis/jobs/7638119003?gh_jid=7638119003 | Celonis | Senior Product Manager - Celonis Labs | Munich, Germany | drop: non-us location
+- https://job-boards.greenhouse.io/celonis/jobs/7687708003?gh_jid=7687708003 | Celonis | Senior Product Manager - Extractors (Data Integration) | Bangalore, India | drop: non-us location
+- https://job-boards.greenhouse.io/celonis/jobs/7678804003?gh_jid=7678804003 | Celonis | Senior Software Engineer - Orchestration and Automation | Madrid, Spain | drop: non-us location
+- https://job-boards.greenhouse.io/celonis/jobs/7677452003?gh_jid=7677452003 | Celonis | Senior Solutions Architect | London, United Kingdom | drop: non-us location
+- https://job-boards.greenhouse.io/celonis/jobs/7657903003?gh_jid=7657903003 | Celonis | Territory Partner Manager (Mumbai) | Remote, India | drop: non-us location
+- https://job-boards.greenhouse.io/contentful/jobs/7776562 | Contentful | Senior Backend Engineer - AI Platform (f/m/d) | London, England, United Kingdom | drop: non-us location
+- https://job-boards.greenhouse.io/contentful/jobs/7682062 | Contentful | Senior Platform Engineer (f/m/d) | London, England, United Kingdom | drop: non-us location
+- https://job-boards.greenhouse.io/contentful/jobs/7658079 | Contentful | Senior Product Manager (f/m/d) | Dublin, Dublin, Ireland | drop: non-us location
+- https://getyourguide.careers/jobs/7541247?gh_jid=7541247 | GetYourGuide | B2B Lifecycle & CRM Campaign Lead | Berlin | drop: non-us location
+- https://getyourguide.careers/jobs/7422312?gh_jid=7422312 | GetYourGuide | Engineering Manager, AI Platform | Berlin | drop: non-us location
+- https://getyourguide.careers/jobs/7649294?gh_jid=7649294 | GetYourGuide | Lead Product Manager, B2C | Berlin | drop: non-us location
+- https://getyourguide.careers/jobs/7657103?gh_jid=7657103 | GetYourGuide | Lead Product Manager, Paid Search | Berlin | drop: non-us location
+- https://getyourguide.careers/jobs/6687709?gh_jid=6687709 | GetYourGuide | Legal Trainee (Rechtsreferendar) | Berlin | drop: non-us location
+- https://getyourguide.careers/jobs/7738772?gh_jid=7738772 | GetYourGuide | Senior AI Enablement Engineer | Berlin | drop: non-us location
+- https://getyourguide.careers/jobs/7594703?gh_jid=7594703 | GetYourGuide | Senior ML Ops Engineer, AI Platform Team | Berlin | drop: non-us location
+- https://getyourguide.careers/jobs/7556882?gh_jid=7556882 | GetYourGuide | Senior Product Manager, Connectivity | Berlin | drop: non-us location
+- https://getyourguide.careers/jobs/7286665?gh_jid=7286665 | GetYourGuide | Staff Site Reliability Engineer | Berlin | drop: non-us location
+- https://getyourguide.careers/jobs/7610106?gh_jid=7610106 | GetYourGuide | Sustainability Reporting Manager | Berlin | drop: non-us location
+- https://careers.hellofresh.com/global/en/job/7739124?gh_jid=7739124 | HelloFresh | Account Executive, Retail Media | New York, NY, United States | drop: sales-only
+- https://careers.hellofresh.com/global/en/job/7549573?gh_jid=7549573 | HelloFresh | Associate Director of Retail Media Operations & Inventory (all genders) | Amsterdam, North Holland, Netherlands | drop: non-us location
+- https://careers.hellofresh.com/global/en/job/7722066?gh_jid=7722066 | HelloFresh | Automation Engineer | Derby, England, United Kingdom | drop: non-us location
+- https://careers.hellofresh.com/global/en/job/7522444?gh_jid=7522444 | HelloFresh | DC Senior Supply Chain Manager (H/F/X) | Lisses, Essonne, France | drop: sales-only
+- https://careers.hellofresh.com/global/en/job/7608865?gh_jid=7608865 | HelloFresh | Facilities & Maintenance Manager | Mississauga, Ontario, Canada | drop: non-us location
+- https://careers.hellofresh.com/global/en/job/7693062?gh_jid=7693062 | HelloFresh | Finance Executive (Supply Chain) | Manila, Manila, Philippines | drop: sales-only
+- https://careers.hellofresh.com/global/en/job/7553086?gh_jid=7553086 | HelloFresh | Fulfillment Operations Specialist | Manila, Manila, Philippines | drop: non-us location
+- https://careers.hellofresh.com/global/en/job/7553236?gh_jid=7553236 | HelloFresh | Fulfillment Operations Team Lead | Manila, Manila, Philippines | drop: non-us location
+- https://careers.hellofresh.com/global/en/job/7835861?gh_jid=7835861 | HelloFresh | [HELLOCONNECT] Sustainability Coordinator | Manila, Manila, Philippines | drop: non-us location
+- https://careers.hellofresh.com/global/en/job/7593660?gh_jid=7593660 | HelloFresh | Koordinator für Arbeitssicherheit und Notfallmanagement (all genders) | Barleben, Saxony-Anhalt, Germany; Magdeburg, Saxony-Anhalt, Germany | drop: non-us location
+- https://careers.hellofresh.com/global/en/job/7784793?gh_jid=7784793 | HelloFresh | Maintenance Electrician | Brisbane, Queensland, Australia | drop: non-us location
+- https://careers.hellofresh.com/global/en/job/7605901?gh_jid=7605901 | HelloFresh | Maintenance Fitter | Brisbane, Queensland, Australia | drop: non-us location
+- https://careers.hellofresh.com/global/en/job/7775119?gh_jid=7775119 | HelloFresh | Maintenance Planner | Derby, England, United Kingdom | drop: non-us location
+- https://careers.hellofresh.com/global/en/job/7813114?gh_jid=7813114 | HelloFresh | Maintenance Technician II | Mississauga, Ontario, Canada | drop: non-us location
+- https://careers.hellofresh.com/global/en/job/7818196?gh_jid=7818196 | HelloFresh | Multi Skilled Maintenance Engineer | Derby, England, United Kingdom | drop: non-us location
+- https://careers.hellofresh.com/global/en/job/7592342?gh_jid=7592342 | HelloFresh | Operations Trainer | Goodyear, AZ, United States | drop: sales-only
+- https://careers.hellofresh.com/global/en/job/7742572?gh_jid=7742572 | HelloFresh | Quality and Training Officer | Manila, Manila, Philippines | drop: non-us location
+- https://careers.hellofresh.com/global/en/job/7841913?gh_jid=7841913 | HelloFresh | Reliability Engineer | Derby, England, United Kingdom | drop: non-us location
+- https://careers.hellofresh.com/global/en/job/7649239?gh_jid=7649239 | HelloFresh | Schichtleiter Maintenance (all genders) | Verden, Niedersachsen, Germany | drop: non-us location
+- https://careers.hellofresh.com/global/en/job/7549802?gh_jid=7549802 | HelloFresh | Senior Analyst Global Retail Media (all genders) | Amsterdam, North Holland, Netherlands | drop: non-us location
+- https://careers.hellofresh.com/global/en/job/7549024?gh_jid=7549024 | HelloFresh | Senior Business Development Manager (Retail Media Sales) | København, Capital RegionDenmark, Denmark | drop: sales-only
+- https://careers.hellofresh.com/global/en/job/7783177?gh_jid=7783177 | HelloFresh | Senior Product Manager | Sydney, New South Wales, Australia | drop: non-us location
+- https://careers.hellofresh.com/global/en/job/7824418?gh_jid=7824418 | HelloFresh | Senior Product Manager II, Personalisation & Data | Warszawa, Masovian Voivodeship, Poland | drop: non-us location
+- https://careers.hellofresh.com/global/en/job/7768206?gh_jid=7768206 | HelloFresh | Supply Chain Manager | London, England, United Kingdom | drop: sales-only
+- https://careers.hellofresh.com/global/en/job/7768316?gh_jid=7768316 | HelloFresh | Teamlead Display and Video Marketing (parental leave cover) (all genders) | Berlin, Berlin, Germany | drop: non-us location
+- https://careers.hellofresh.com/global/en/job/7703792?gh_jid=7703792 | HelloFresh | Teamleiter Instandhaltung – Schichtbetrieb (all genders) | Verden, Niedersachsen, Germany | drop: non-us location
+- https://n26.com/en-eu/careers/positions/7646172?gh_jid=7646172 | N26 | Regulatory Reporting Manager (German fluent, remote opportunity in Spain or Germany) | Berlin | drop: non-us location
+- https://n26.com/en-eu/careers/positions/7597686?gh_jid=7597686 | N26 | Senior Full-Stack Security Automation Engineer | Barcelona | drop: non-us location
+- https://n26.com/en-eu/careers/positions/7704226?gh_jid=7704226 | N26 | (Senior) Product Manager - Onboarding & KYC | Barcelona | drop: non-us location
+- https://n26.com/en-eu/careers/positions/7140058?gh_jid=7140058 | N26 | Senior Product Manager - Payments Platform (Backend) | Berlin | drop: non-us location
+- https://n26.com/en-eu/careers/positions/7653388?gh_jid=7653388 | N26 | Senior Product Manager - Runtime Platform | Barcelona | drop: non-us location
+- https://n26.com/en-eu/careers/positions/7774526?gh_jid=7774526 | N26 | Senior Site Reliability Engineer - Access Team | Barcelona | drop: non-us location
+- https://n26.com/en-eu/careers/positions/7796233?gh_jid=7796233 | N26 | Senior Site Reliability Engineer - Infrastructure | Berlin | drop: non-us location
+- https://n26.com/en-eu/careers/positions/7736314?gh_jid=7736314 | N26 | Site Reliability Engineer - Access Team | Barcelona | drop: non-us location
+- https://traderepublic.com/en-de/about?jobId=7685048003&gh_jid=7685048003 | Trade Republic | Kubernetes Platform Tech Lead | Berlin; London; Paris | drop: non-us location
+- https://traderepublic.com/en-de/about?jobId=7539278003&gh_jid=7539278003 | Trade Republic | Mobile Test Automation Specialist (Berlin/London/Paris) | Berlin; London; Paris | drop: non-us location
+- https://traderepublic.com/en-de/about?jobId=7685052003&gh_jid=7685052003 | Trade Republic | Senior Kafka Platform Engineer | Berlin; London; Paris | drop: non-us location
+- https://traderepublic.com/en-de/about?jobId=6673504003&gh_jid=6673504003 | Trade Republic | (Senior) Platform Engineer (Go) | Berlin; London; Paris | drop: non-us location
+- https://traderepublic.com/en-de/about?jobId=7685049003&gh_jid=7685049003 | Trade Republic | Senior PostgreSQL Platform Engineer | Berlin; London; Paris | drop: non-us location
+- https://traderepublic.com/en-de/about?jobId=5614731003&gh_jid=5614731003 | Trade Republic | Senior Technical Product Manager | Berlin; Headquarter; London; Paris | drop: non-us location
+- https://traderepublic.com/en-de/about?jobId=6551435003&gh_jid=6551435003 | Trade Republic | Senior Technical Product Manager - Banking infra | Berlin; London; Paris | drop: non-us location
+- https://sumup.com/careers/positions/8483620002?gh_jid=8483620002 | SumUp | Agente II de Relacionamento (Grandes Contas) | São Paulo, Brazil | drop: non-us location
+- https://sumup.com/careers/positions/8118920002?gh_jid=8118920002 | SumUp | Agenti di Commercio/ Consulenti di vendita/ Procacciatori di Affari - P.Iva (ABRUZZO E MOLISE) | Campobasso; Pescara, Pescara, Italy | drop: non-us location
+- https://sumup.com/careers/positions/8119004002?gh_jid=8119004002 | SumUp | Agenti di Commercio/ Consulenti di vendita/ Procacciatori di Affari - P.Iva (CALABRIA) | Catanzaro, Catanzaro, Italy; Cosenza; Reggio Calabria, Italy | drop: non-us location
+- https://sumup.com/careers/positions/8119003002?gh_jid=8119003002 | SumUp | Agenti di Commercio/ Consulenti di vendita/ Procacciatori di Affari - P.Iva (CAMPANIA) | Avellino, Italy; Benevento, Province Benevento, Italy; Caserta, Italy; Napoli, Naples, Italy; Salerno, Italy | drop: non-us location
+- https://sumup.com/careers/positions/8429186002?gh_jid=8429186002 | SumUp | Agenti di Commercio/ Consulenti di vendita/ Procacciatori di Affari - P.Iva Friuli-Venezia Giulia (Gorizia) | Gorizia, Italy | drop: non-us location
+- https://sumup.com/careers/positions/8429188002?gh_jid=8429188002 | SumUp | Agenti di Commercio/ Consulenti di vendita/ Procacciatori di Affari - P.Iva Friuli-Venezia Giulia (Pordenone) | Pordenone, Italy | drop: non-us location
+- https://sumup.com/careers/positions/8080118002?gh_jid=8080118002 | SumUp | Agenti di Commercio/ Consulenti di vendita/ Procacciatori di Affari - P.Iva Friuli-Venezia Giulia (Trieste) | Trieste, Trieste, Italy | drop: non-us location
+- https://sumup.com/careers/positions/8429187002?gh_jid=8429187002 | SumUp | Agenti di Commercio/ Consulenti di vendita/ Procacciatori di Affari - P.Iva Friuli-Venezia Giulia (Udine) | Udine, Italy | drop: non-us location
+- https://sumup.com/careers/positions/8123871002?gh_jid=8123871002 | SumUp | Agenti di Commercio/ Consulenti di vendita/ Procacciatori di Affari - P.Iva - Liguria (Genova) | Genova, Genoa, Italy | drop: non-us location
+- https://sumup.com/careers/positions/8424265002?gh_jid=8424265002 | SumUp | Agenti di Commercio/ Consulenti di vendita/ Procacciatori di Affari - P.Iva - Liguria (Imperia) | Imperia, Italy | drop: non-us location
+- https://sumup.com/careers/positions/8424266002?gh_jid=8424266002 | SumUp | Agenti di Commercio/ Consulenti di vendita/ Procacciatori di Affari - P.Iva - Liguria (La Spezia) | La Spezia, Italy | drop: non-us location
+- https://sumup.com/careers/positions/8424267002?gh_jid=8424267002 | SumUp | Agenti di Commercio/ Consulenti di vendita/ Procacciatori di Affari - P.Iva - Liguria (Savona) | Savona, Italy | drop: non-us location
+- https://sumup.com/careers/positions/8429119002?gh_jid=8429119002 | SumUp | Agenti di Commercio/ Consulenti di vendita/ Procacciatori di Affari - P.Iva Lombardia (Bergamo,Brescia,Mantova, Desenzano del Garda) | Brescia, Brescia, Italy; Desenzano del Garda, Brescia, Italy; Mantova, Mantua, Italy | drop: non-us location
+- https://sumup.com/careers/positions/8429147002?gh_jid=8429147002 | SumUp | Agenti di Commercio/ Consulenti di vendita/ Procacciatori di Affari - P.Iva Lombardia (Como,Varese) | Como, Como, Italy; Varese, Italy | drop: non-us location
+- https://sumup.com/careers/positions/8429144002?gh_jid=8429144002 | SumUp | Agenti di Commercio/ Consulenti di vendita/ Procacciatori di Affari - P.Iva Lombardia (Cremona) | Cremona, Italy | drop: non-us location
+- https://sumup.com/careers/positions/8429160002?gh_jid=8429160002 | SumUp | Agenti di Commercio/ Consulenti di vendita/ Procacciatori di Affari - P.Iva Lombardia (Lecco) | Lecco, Lecco, Italy | drop: non-us location
+- https://sumup.com/careers/positions/8123870002?gh_jid=8123870002 | SumUp | Agenti di Commercio/ Consulenti di vendita/ Procacciatori di Affari - P.Iva Lombardia (Milano,Monza e Brianza, Como, Varese) | Como, Como, Italy; Milan, Italy; Monza and Brianza, Italy; Varese, Italy | drop: non-us location
+- https://sumup.com/careers/positions/8429181002?gh_jid=8429181002 | SumUp | Agenti di Commercio/ Consulenti di vendita/ Procacciatori di Affari - P.Iva Lombardia (Pavia) | Pavia, Italy | drop: non-us location
+- https://sumup.com/careers/positions/8429151002?gh_jid=8429151002 | SumUp | Agenti di Commercio/ Consulenti di vendita/ Procacciatori di Affari - P.Iva Lombardia (Sondrio) | Sondrio, Italy | drop: non-us location
+- https://sumup.com/careers/positions/8118762002?gh_jid=8118762002 | SumUp | Agenti di Commercio/ Consulenti di vendita/ Procacciatori di Affari - P.Iva (MARCHE E UMBRIA) | Ancona, Italy; Orvieto, Terni, Italy; Perugia, Italy; Pesaro and Urbino, Italy | drop: non-us location
+- https://sumup.com/careers/positions/8424309002?gh_jid=8424309002 | SumUp | Agenti di Commercio/ Consulenti di vendita/ Procacciatori di Affari - P.Iva - Piemonte (Alessandria) | Alessandria, Italy | drop: non-us location
+- https://sumup.com/careers/positions/8429074002?gh_jid=8429074002 | SumUp | Agenti di Commercio/ Consulenti di vendita/ Procacciatori di Affari - P.Iva - Piemonte (Biella) | Biella, Biella, Italy | drop: non-us location
+- https://sumup.com/careers/positions/8429075002?gh_jid=8429075002 | SumUp | Agenti di Commercio/ Consulenti di vendita/ Procacciatori di Affari - P.Iva - Piemonte (Verbano-Cusio-Ossola) | Verbano-Cusio-Ossola, Italy | drop: non-us location
+- https://sumup.com/careers/positions/8424318002?gh_jid=8424318002 | SumUp | Agenti di Commercio/ Consulenti di vendita/ Procacciatori di Affari - P.Iva - Piemonte (Vercelli) | Vercelli, Italy | drop: non-us location
+- https://sumup.com/careers/positions/8429260002?gh_jid=8429260002 | SumUp | Agenti di Commercio/ Consulenti di vendita/ Procacciatori di Affari - P.Iva Trentino- Alto Adige (Bolzano,Merano) | Bolzano, South Tyrol, Italy | drop: non-us location
+- https://sumup.com/careers/positions/8429114002?gh_jid=8429114002 | SumUp | Agenti di Commercio/ Consulenti di vendita/ Procacciatori di Affari - P.Iva Trentino- Alto Adige (Trento,Rovereto,Pergine Valsugana) | Pergine Valsugana, Trentino, Italy; Rovereto, Trentino, Italy; Trento, Trentino, Italy | drop: non-us location
+- https://sumup.com/careers/positions/8429088002?gh_jid=8429088002 | SumUp | Agenti di Commercio/ Consulenti di vendita/ Procacciatori di Affari - P.Iva - Valle D'Aosta | Aosta Valley, Italy | drop: non-us location
+- https://sumup.com/careers/positions/8429237002?gh_jid=8429237002 | SumUp | Agenti di Commercio/ Consulenti di vendita/ Procacciatori di Affari - P.Iva Veneto (Belluno) | Belluno, Italy | drop: non-us location
+- https://sumup.com/careers/positions/8429228002?gh_jid=8429228002 | SumUp | Agenti di Commercio/ Consulenti di vendita/ Procacciatori di Affari - P.Iva Veneto (Padova) | Padua, Italy | drop: non-us location
+- https://sumup.com/careers/positions/8429236002?gh_jid=8429236002 | SumUp | Agenti di Commercio/ Consulenti di vendita/ Procacciatori di Affari - P.Iva Veneto (Rovigo) | Rovigo, Italy | drop: non-us location
+- https://sumup.com/careers/positions/8429229002?gh_jid=8429229002 | SumUp | Agenti di Commercio/ Consulenti di vendita/ Procacciatori di Affari - P.Iva Veneto (Treviso) | Treviso, Italy | drop: non-us location
+- https://sumup.com/careers/positions/8429224002?gh_jid=8429224002 | SumUp | Agenti di Commercio/ Consulenti di vendita/ Procacciatori di Affari - P.Iva Veneto (Venezia) | Venezia, Venice, Italy | drop: non-us location
+- https://sumup.com/careers/positions/8123882002?gh_jid=8123882002 | SumUp | Agenti di Commercio/ Consulenti di vendita/ Procacciatori di Affari - P.Iva Veneto (Verona) | Verona, Italy | drop: non-us location
+- https://sumup.com/careers/positions/8429225002?gh_jid=8429225002 | SumUp | Agenti di Commercio/ Consulenti di vendita/ Procacciatori di Affari - P.Iva Veneto (Vicenza) | Vicenza, Italy | drop: non-us location
+- https://sumup.com/careers/positions/8364208002?gh_jid=8364208002 | SumUp | AML Analyst II | São Paulo, Brazil | drop: non-us location
+- https://sumup.com/careers/positions/8427282002?gh_jid=8427282002 | SumUp | AML Investigator | Vilnius, Lithuania | drop: non-us location
+- https://sumup.com/careers/positions/8432957002?gh_jid=8432957002 | SumUp | AREZZO - Agenti di Vendita - P.Iva | Arezzo, Italy | drop: non-us location
+- https://sumup.com/careers/positions/7875334002?gh_jid=7875334002 | SumUp | Commercial(e) Terrain Freelance – Amiens | Amiens, Somme, France | drop: non-us location
+- https://sumup.com/careers/positions/7875332002?gh_jid=7875332002 | SumUp | Commercial(e) Terrain Freelance – Calais | Calais, Pas-de-Calais, France | drop: non-us location
+- https://sumup.com/careers/positions/7875302002?gh_jid=7875302002 | SumUp | Commercial(e) terrain (freelance) – Dunkerque | Dunkerque, Nord, France | drop: non-us location
+- https://sumup.com/careers/positions/8354978002?gh_jid=8354978002 | SumUp | Commercial(e) Terrain - Indépendant (Freelance) | Fontainebleau, Seine-et-Marne, France | drop: non-us location
+- https://sumup.com/careers/positions/7988606002?gh_jid=7988606002 | SumUp | Commercial Terrain - Indépendant (Freelance) | Rennes, Ille-et-Vilaine, France | drop: non-us location
+- https://sumup.com/careers/positions/8511537002?gh_jid=8511537002 | SumUp | Commercial Terrain - Indépendant (Freelance)- Avignon | Avignon, Vaucluse, France | drop: non-us location
+- https://sumup.com/careers/positions/8505515002?gh_jid=8505515002 | SumUp | Commercial Terrain - Indépendant (Freelance)- Bordeaux | Bordeaux, Gironde, France | drop: non-us location
+- https://sumup.com/careers/positions/8511538002?gh_jid=8511538002 | SumUp | Commercial Terrain - Indépendant (Freelance)- Nîmes | Nîmes, Gard, France | drop: non-us location
+- https://sumup.com/careers/positions/7868915002?gh_jid=7868915002 | SumUp | Commercial Terrain Indépendant – SumUp (Strasbourg) | Strasbourg, Bas-Rhin, France | drop: non-us location
+- https://sumup.com/careers/positions/8367883002?gh_jid=8367883002 | SumUp | Complaints and Compliance Specialist with Dutch (NL) | Berlin, Germany | drop: non-us location
+- https://sumup.com/careers/positions/8446060002?gh_jid=8446060002 | SumUp | Customer Support Agent | Amsterdam, Netherlands | drop: non-us location
+- https://sumup.com/careers/positions/8340139002?gh_jid=8340139002 | SumUp | Customer Support Agent - DE | Berlin, Germany | drop: non-us location
+- https://sumup.com/careers/positions/8340138002?gh_jid=8340138002 | SumUp | Customer Support Agent- DE | Barcelona, Barcelona, Spain | drop: non-us location
+- https://sumup.com/careers/positions/8459254002?gh_jid=8459254002 | SumUp | Customer Support Agent -  Horario Rotativo | Santiago, Chile | drop: non-us location
+- https://sumup.com/careers/positions/8467940002?gh_jid=8467940002 | SumUp | (EMILIA ROMAGNA) Agenti di Vendita - P.Iva | Bologna, Bologna, Italy; Emilia-Romagna, Italy; Modena, Italy; Parma, Italy; Ravenna, Italy; Reggio Emilia, Italy; Rimini, Italy | drop: non-us location
+- https://sumup.com/careers/positions/8424152002?gh_jid=8424152002 | SumUp | (FERRARA) Agenti di Vendita - P.Iva | Ferrara, Italy | drop: non-us location
+- https://sumup.com/careers/positions/8478931002?gh_jid=8478931002 | SumUp | Field Sales Consultant / Commerciale Terrain | Brussels, Brussels-Capital, Belgium | drop: non-us location
+- https://sumup.com/careers/positions/8450896002?gh_jid=8450896002 | SumUp | Fraud Prevention Agent II | São Paulo, Brazil | drop: non-us location
+- https://sumup.com/careers/positions/8066192002?gh_jid=8066192002 | SumUp | Independent Sales Agents (ISA) -Merchant Services across the  US | Arizona, United States; Atlanta, Georgia, United States; Colorado, United States; District of Columbia, United States; Florida, United States; Georgia, United States; Illinois, United States; Indiana, United States; Kansas, United States; Louisiana, United States; Michigan, United States; Minneapolis, Minnesota, United States; Missouri, United States; Nevada, United States; New Mexico, United States; North Carolina, United States; Ohio, United States; Oklahoma, United States; Oregon, United States; Pennsylvania, United States; South Carolina, United States; Tennessee, United States; Texas, United States; Utah, United States; Virginia, United States; Washington, United States; Wisconsin, United States | drop: non-us location
+- https://sumup.com/careers/positions/8435161002?gh_jid=8435161002 | SumUp | LATINA - Agenti di Vendita - P.Iva | Latina, Italy | drop: non-us location
+- https://sumup.com/careers/positions/8467953002?gh_jid=8467953002 | SumUp | LAZIO - Agenti di Vendita - P.Iva | Rome, Italy | drop: non-us location
+- https://sumup.com/careers/positions/8467955002?gh_jid=8467955002 | SumUp | LAZIO provincia - Agenti di Vendita - P.Iva | Frosinone; Latina, Italy; Rieti; Viterbo, Italy | drop: non-us location
+- https://sumup.com/careers/positions/8432956002?gh_jid=8432956002 | SumUp | LIVORNO - Agenti di Vendita - P.Iva | Livorno, Italy | drop: non-us location
+- https://sumup.com/careers/positions/8432963002?gh_jid=8432963002 | SumUp | LUCCA - Agenti di Vendita - P.Iva | Lucca, Italy | drop: non-us location
+- https://sumup.com/careers/positions/8424149002?gh_jid=8424149002 | SumUp | (MODENA) Agenti di Vendita - P.Iva | Modena, Italy | drop: non-us location
+- https://sumup.com/careers/positions/8447227002?gh_jid=8447227002 | SumUp | Onboarding Agent II | São José Dos Campos, São Paulo, Brazil; São Paulo, Brazil | drop: non-us location
+- https://sumup.com/careers/positions/8438089002?gh_jid=8438089002 | SumUp | Onboarding Agent with Dutch | Sofia, Bulgaria | drop: non-us location
+- https://sumup.com/careers/positions/8487107002?gh_jid=8487107002 | SumUp | Onboarding Agent with Spanish/Portuguese | Sofia, Bulgaria | drop: non-us location
+- https://sumup.com/careers/positions/8424150002?gh_jid=8424150002 | SumUp | (PARMA) Agenti di Vendita - P.Iva | Parma, Italy | drop: non-us location
+- https://sumup.com/careers/positions/8424153002?gh_jid=8424153002 | SumUp | (PIACENZA) Agenti di Vendita - P.Iva | Piacenza, Italy | drop: non-us location
+- https://sumup.com/careers/positions/8432958002?gh_jid=8432958002 | SumUp | PISA - Agenti di Vendita - P.Iva | Pisa, Italy | drop: non-us location
+- https://sumup.com/careers/positions/8343371002?gh_jid=8343371002 | SumUp | Product Manager - Acquiring | Sofia, Bulgaria | drop: non-us location
+- https://sumup.com/careers/positions/8498278002?gh_jid=8498278002 | SumUp | Product Manager, Partnerships | Berlin, Germany | drop: non-us location
+- https://sumup.com/careers/positions/8424147002?gh_jid=8424147002 | SumUp | (RAVENNA) Agenti di Vendita - P.Iva | Ravenna, Italy | drop: non-us location
+- https://sumup.com/careers/positions/8424151002?gh_jid=8424151002 | SumUp | (REGGIO EMILIA) Agenti di Vendita - P.Iva | Reggio Emilia, Italy | drop: non-us location
+- https://sumup.com/careers/positions/8424146002?gh_jid=8424146002 | SumUp | (RIMINI) Agenti di Vendita - P.Iva | Rimini, Italy | drop: non-us location
+- https://sumup.com/careers/positions/8336127002?gh_jid=8336127002 | SumUp | (RIMINI) Agenti di vendita - P.Iva  - SumUp | Emilia-Romagna, Italy | drop: non-us location
+- https://sumup.com/careers/positions/8485243002?gh_jid=8485243002 | SumUp | SARDEGNA - Agenti di vendita - P.Iva | Alghero; Cagliari, Cagliari, Italy; Olbia, Sassari, Italy; Oristano; Sardinia, Italy; Sassari, Sassari, Italy | drop: non-us location
+- https://sumup.com/careers/positions/8468006002?gh_jid=8468006002 | SumUp | Senior AI Backend Engineer | Berlin, Germany | drop: non-us location
+- https://sumup.com/careers/positions/8249610002?gh_jid=8249610002 | SumUp | Senior AI/ML Engineer | Berlin, Germany | drop: non-us location
+- https://sumup.com/careers/positions/8413033002?gh_jid=8413033002 | SumUp | Senior AML Investigator | Sofia, Bulgaria | drop: non-us location
+- https://sumup.com/careers/positions/8333836002?gh_jid=8333836002 | SumUp | Senior Analytics Engineer - RevOps | Santiago, Chile | drop: non-us location
+- https://sumup.com/careers/positions/8482964002?gh_jid=8482964002 | SumUp | Senior Database DevOps Engineer | Sofia, Bulgaria | drop: non-us location
+- https://sumup.com/careers/positions/8364207002?gh_jid=8364207002 | SumUp | Senior Data Engineer – AI AML Engineering | Berlin, Germany | drop: non-us location
+- https://sumup.com/careers/positions/8313095002?gh_jid=8313095002 | SumUp | Senior Product Manager - Acquiring | Sofia, Bulgaria | drop: non-us location
+- https://sumup.com/careers/positions/8458928002?gh_jid=8458928002 | SumUp | Senior Product Manager - Bookings | Warsaw, Poland | drop: non-us location
+- https://sumup.com/careers/positions/8366752002?gh_jid=8366752002 | SumUp | Senior Product Manager - Hardware | Berlin, Germany | drop: non-us location
+- https://sumup.com/careers/positions/8418443002?gh_jid=8418443002 | SumUp | Senior Technical Product Manager - Commercial Data | Berlin, Germany | drop: non-us location
+- https://sumup.com/careers/positions/8467947002?gh_jid=8467947002 | SumUp | TOSCANA Agenti di Vendita - P.Iva | Firenze, Florence, Italy; Grosseto, Italy; Livorno, Italy; Pisa, Italy; Siena, Italy; Tuscany, Italy | drop: non-us location
+- https://sumup.com/careers/positions/8458937002?gh_jid=8458937002 | SumUp | Training & Enablement Assistant Analyst - LatAm | Santiago, Chile | drop: non-us location
+- https://sumup.com/careers/positions/8408733002?gh_jid=8408733002 | SumUp | Training Manager (Field Sales) | Paris, Paris, France | drop: non-us location
+- https://sumup.com/careers/positions/8435159002?gh_jid=8435159002 | SumUp | VITERBO - Agenti di Vendita - P.Iva | Viterbo, Italy | drop: non-us location
+- https://jobs.ashbyhq.com/lakera.ai/6f04a898-893e-439f-8601-c25a30418c13 | Lakera | Staff ML Engineer (Zürich) | Zürich | drop: non-us location
+- https://jobs.ashbyhq.com/lakera.ai/158d9a05-bc1d-49fd-81f1-bf1229e8021f | Lakera | Senior ML Engineer (Zürich) | Zürich | drop: non-us location
+- https://jobs.ashbyhq.com/lakera.ai/1429bdc6-3e78-4c24-b641-675e94684fc3 | Lakera | Solutions Architect  (Zurich) | Zürich | drop: non-us location
+- https://jobs.ashbyhq.com/lakera.ai/be24c900-5253-4e41-a4f9-1ad3a294d202 | Lakera | Solutions Engineer (London) | London | drop: non-us location
+- https://jobs.ashbyhq.com/lakera.ai/dbd9fe27-73a8-42e5-9291-0475cd86ba46 | Lakera | Solutions Engineer (Dubai) | Dubai | drop: non-us location
+- https://jobs.ashbyhq.com/lakera.ai/64cd7920-fec3-4e97-8688-e592cc8f5898 | Lakera | Solutions Engineer (Mumbai) | Mumbai | drop: non-us location
+- https://jobs.ashbyhq.com/lakera.ai/27130c78-fb9a-436b-a8a1-6445b1bcf329 | Lakera | Solutions Engineer (Singapore) | Singapore | drop: non-us location
+- https://jobs.ashbyhq.com/lakera.ai/a08b489f-d492-4cb5-9c78-301440580cb3 | Lakera | Solutions Engineer (Tokyo) | Japan | drop: non-us location
+- https://jobs.ashbyhq.com/lakera.ai/2c533f1b-4fe3-40da-a3e2-4627977cbda4 | Lakera | Enterprise Account Executive, UAE (Dubai) | Dubai | drop: sales-only
+- https://jobs.ashbyhq.com/lakera.ai/9b58413a-6e85-40fa-a1d4-1630f9480346 | Lakera | Solutions Engineer (France) | France | drop: non-us location
+- https://jobs.ashbyhq.com/lakera.ai/6affd7e7-4efa-49d0-b577-571177d533d2 | Lakera | Solutions Engineer (Germany) | Germany | drop: non-us location
+- https://jobs.ashbyhq.com/lakera.ai/792d73ef-829e-460b-9d90-f08890a5b6f6 | Lakera | Solutions Engineer (Italy) | Italy | drop: non-us location
+- https://wayve.firststage.co/jobs?gh_jid=8419855002 | Wayve | Network & Infrastructure Engineer | Japan | drop: non-us location
+- https://wayve.firststage.co/jobs?gh_jid=8458272002 | Wayve | Senior Cloud Site Reliability Engineer | London | drop: non-us location
+- https://wayve.firststage.co/jobs?gh_jid=8435003002 | Wayve | Senior Site Reliability Engineer, Vehicle SW | London | drop: non-us location
+- https://wayve.firststage.co/jobs?gh_jid=8436432002 | Wayve | Site Reliability Engineer | Japan | drop: non-us location
+- https://job-boards.greenhouse.io/isomorphiclabs/jobs/5584160004 | Isomorphic Labs | Cloud Platform Engineer | London | drop: non-us location
+- https://job-boards.greenhouse.io/isomorphiclabs/jobs/5578430004 | Isomorphic Labs | ML Research Engineer, London | London | drop: non-us location
+- https://job-boards.greenhouse.io/isomorphiclabs/jobs/5978596004 | Isomorphic Labs | Platform Engineer - Security | London | drop: non-us location
+- https://job-boards.greenhouse.io/isomorphiclabs/jobs/5704870004 | Isomorphic Labs | Research Scientist (Applied LLMs), London | London | drop: non-us location
+- https://job-boards.greenhouse.io/isomorphiclabs/jobs/5460704004 | Isomorphic Labs | Research Scientist (Machine Learning), Lausanne | Lausanne | drop: non-us location
+- https://job-boards.greenhouse.io/isomorphiclabs/jobs/5224363004 | Isomorphic Labs | Research Scientist (Machine Learning), London | London | drop: non-us location
+- https://job-boards.greenhouse.io/isomorphiclabs/jobs/5539669004 | Isomorphic Labs | Senior Platform Engineer | Lausanne; London | drop: non-us location
+- https://job-boards.greenhouse.io/isomorphiclabs/jobs/5837899004 | Isomorphic Labs | Senior Software Engineer, ML Ops | London | drop: non-us location
+- https://job-boards.eu.greenhouse.io/physicsx/jobs/4838226101 | PhysicsX | DevOps Consultant | London, United Kingdom | drop: non-us location
+- https://job-boards.eu.greenhouse.io/physicsx/jobs/4789344101 | PhysicsX | Forward Deployed Applications - Senior Software Engineer | London | drop: non-us location
+- https://job-boards.eu.greenhouse.io/physicsx/jobs/4789348101 | PhysicsX | Forward Deployed Applications - Software Engineer | London | drop: non-us location
+- https://job-boards.eu.greenhouse.io/physicsx/jobs/4804769101 | PhysicsX | Principal AI Engineer | London | drop: non-us location
+- https://job-boards.eu.greenhouse.io/physicsx/jobs/4750000101 | PhysicsX | Principal Forward Deployed Software Engineer | Singapore  | drop: non-us location
+- https://job-boards.eu.greenhouse.io/physicsx/jobs/4789202101 | PhysicsX | Principal Machine Learning Infrastructure Engineer | London, United Kingdom | drop: non-us location
+- https://job-boards.eu.greenhouse.io/physicsx/jobs/4851193101 | PhysicsX | Principal Research Scientist | London, United Kingdom | drop: non-us location
+- https://job-boards.eu.greenhouse.io/physicsx/jobs/4775784101 | PhysicsX | Principal Security Engineer – DevSecOps and Security Architect | New York City or London | drop: non-us location
+- https://job-boards.eu.greenhouse.io/physicsx/jobs/4652632101 | PhysicsX | Research Scientist | London, United Kingdom | drop: non-us location
+- https://job-boards.eu.greenhouse.io/physicsx/jobs/4804807101 | PhysicsX | Senior AI Engineer - Applied | London | drop: non-us location
+- https://job-boards.eu.greenhouse.io/physicsx/jobs/4804805101 | PhysicsX | Senior AI Engineer - Platform | London | drop: non-us location
+- https://job-boards.eu.greenhouse.io/physicsx/jobs/4789290101 | PhysicsX | Senior Software Engineer - AI Workbench | London | drop: non-us location
+- https://job-boards.eu.greenhouse.io/physicsx/jobs/4804130101 | PhysicsX | Senior Software Engineer - SRE Core Infrastructure | London | drop: non-us location
+- https://job-boards.eu.greenhouse.io/physicsx/jobs/4788997101 | PhysicsX | Software Engineer - AI Workbench | London | drop: non-us location
+- http://stability.ai/careers?gh_jid=4840171101 | Stability AI | Solutions Engineer | United States or Canada | drop: non-us location
+- https://jobs.ashbyhq.com/synthesia/fd3617a1-b117-417d-bee5-416ea9193150 | Synthesia | Product Manager, Video Creation & Editing (Principal-level) | London | drop: non-us location
+- https://jobs.ashbyhq.com/synthesia/2524043b-dbcc-4497-bd2e-3965fdbe72af | Synthesia | Business Systems Administraton | London | drop: non-us location
+- https://jobs.ashbyhq.com/synthesia/7fc7f0ac-7a05-4dba-9036-ffdb99b6a704 | Synthesia | Product Manager, Analytics | London | drop: non-us location
+- https://jobs.ashbyhq.com/faculty/82ffaf2f-f761-4201-9a0e-2c082f687079 | Faculty | Director, AI Engineering | London | drop: non-us location
+- https://jobs.ashbyhq.com/faculty/fd99c104-65b4-4fca-b68e-0ab9170da31f | Faculty | Senior Research Scientist - AI Safety | London | drop: non-us location
+- https://jobs.ashbyhq.com/faculty/b4ec2535-7bce-499b-8926-e349413e3325 | Faculty | Senior Manager (AI Safety) | London | drop: non-us location
+- https://jobs.ashbyhq.com/faculty/671e4b18-fda2-4d86-b675-adba5ca16d3f | Faculty | Senior Cloud Engineer | London | drop: non-us location
+- https://jobs.ashbyhq.com/faculty/6ad13f20-8a65-454f-b7c7-4d5260f306bf | Faculty | Principal Research Scientist - AI Safety | London | drop: non-us location
+- https://jobs.ashbyhq.com/faculty/277da324-7288-40fe-a9fc-a14a9eb778fc | Faculty | Senior Cyber Security Engineer (AI Safety) | London | drop: non-us location
+- https://jobs.ashbyhq.com/faculty/d2d0ef45-de48-4c48-9781-5c85c9d49f42 | Faculty | Head of AI Assurance | London | drop: non-us location
+- https://jobs.ashbyhq.com/faculty/18755194-02f0-4cfc-bd99-cc41c0922f5d | Faculty | Delivery Manager (AI Safety) | London | drop: non-us location
+- https://jobs.ashbyhq.com/faculty/ffb24889-b115-4f6e-8d69-cc385b95dac7 | Faculty | Platform Engineer | London | drop: non-us location
+- https://jobs.ashbyhq.com/faculty/7e726de6-6327-40cd-a00d-0e9be34e1cb4 | Faculty | Technical Director of AI Safety | London | drop: non-us location
+- https://jobs.ashbyhq.com/causaly/80555fe6-2996-468a-b73b-b65a48f98bdf | Causaly | Senior AI Engineer | Athens | drop: non-us location
+- https://jobs.ashbyhq.com/lovable/cfef6fe1-e0c9-4139-8618-b51bfb1dc683 | Lovable | Data Platform Engineer | Stockholm | drop: non-us location
+- https://jobs.ashbyhq.com/lovable/9f4963e7-be14-4dd9-99ce-05df2f06e22d | Lovable | Engineer - Agents & Evals | Stockholm | drop: non-us location
+- https://jobs.ashbyhq.com/lovable/e27e931e-79f3-483a-b543-57e42633ac5c | Lovable | Fullstack Engineer - AI Code Security | Stockholm | drop: non-us location
+- https://jobs.ashbyhq.com/lovable/7fe39289-1f7f-47d4-8002-d3aeeaaaabc6 | Lovable | Forward Deployed Engineer | London | drop: non-us location
+- https://jobs.ashbyhq.com/lovable/99f2854e-4937-4227-b96a-81269b5f871d | Lovable | Platform Engineer - Developer Experience | Stockholm | drop: non-us location
+- https://jobs.ashbyhq.com/lovable/e8897c7e-53bd-43f8-94bb-02237f4459bb | Lovable | Product Manager (Build Experience) | Stockholm | drop: non-us location
+- https://jobs.ashbyhq.com/lovable/1140665c-a426-49d5-bcdd-f78560efe50d | Lovable | Product Manager (Agents) | Stockholm | drop: non-us location
+- https://jobs.ashbyhq.com/lovable/282cea94-a525-43a6-a18e-8b92900d03f8 | Lovable | Product Manager (Security) | Stockholm | drop: non-us location
+- https://jobs.ashbyhq.com/lovable/601f50aa-db7f-4727-8427-80b9038c52ca | Lovable | Product Manager (Enterprise) | London | drop: non-us location
+- https://jobs.ashbyhq.com/legora/8f04eacb-b330-4166-8c88-a77c9cc4f46f | Legora | Platform Engineer | Stockholm HQ | drop: non-us location
+- https://jobs.ashbyhq.com/legora/2a039690-a7d7-4dae-91c3-a80fc3eb121d | Legora | Product Manager - Core Product / Growth | Stockholm HQ | drop: non-us location
+- https://jobs.ashbyhq.com/legora/4bbf1a61-77bb-4e71-a3ed-10be73291b85 | Legora | Product Manager | Stockholm HQ | drop: non-us location
+- https://jobs.ashbyhq.com/legora/c045f902-44b0-4005-8e2f-bd9442b2963b | Legora | Marketing Manager, Campaigns | New York City | drop: sales-only
+- https://jobs.ashbyhq.com/legora/f81a4b5e-7ef3-4946-a147-f6c0645e98ca | Legora | Software Engineer (AI Focus) | Stockholm HQ | drop: non-us location
+- https://jobs.ashbyhq.com/legora/c6d79161-748c-43a4-a762-95826ed8847f | Legora | Site Reliability Engineer | Stockholm HQ | drop: non-us location
+- https://jobs.ashbyhq.com/legora/508072d0-e2bc-4d32-bad9-e1581d238331 | Legora | Global Paid Media Director | Stockholm HQ | drop: non-us location
+- https://jobs.ashbyhq.com/perplexity/1a3df802-9238-4827-ab1f-12a9d1e4b81c | Perplexity | Member of Technical Staff (Machine Learning Research Engineer) | Berlin | drop: non-us location
+- https://job-boards.greenhouse.io/hightouch/jobs/5726252004 | Hightouch | Enterprise Account Executive -Mountain West | Remote (Mountain West) | drop: sales-only
+- https://jobs.lever.co/sanctuary/b249dcaf-d30d-457f-be94-36686ae10ddc | Sanctuary AI | Staff Research Scientist, Dexterous Manipulation | Vancouver, BC | drop: non-us location
+- https://jobs.lever.co/qonto/06c1f0cc-8f6f-4479-b55d-9f2e22b52b75 | Qonto | AML Analyst- Italian Market (First line of defense, transaction monitoring) | Milan | drop: sponsor-blocked
+- https://jobs.lever.co/qonto/3f0f1c9d-92ef-4d73-aa4f-0be61f7e1fe5 | Qonto | AML Officer - France | Paris | drop: non-us location
+- https://jobs.lever.co/qonto/240a722a-8e2c-420d-bbf8-142ff9c852e0 | Qonto | Back Office Agent - Disputes & Chargebacks | Paris | drop: non-us location
+- https://jobs.lever.co/qonto/0608b29a-c6bd-41f7-ac98-7196909c3537 | Qonto | Continuous Improvement Lead (Kaizen Officer) | Paris | drop: non-us location
+- https://jobs.lever.co/qonto/0a53610a-ce0b-4d97-90e2-0ef3ecf51e0e | Qonto | HR Product Manager (AI & Automation) | Paris | drop: non-us location
+- https://jobs.lever.co/qonto/5e9f184e-0785-41d3-9a41-28b4dc317c87 | Qonto | Product Engineer - Accounting Domain (Go and/or React) | Paris | drop: non-us location
+- https://jobs.lever.co/qonto/db4c765c-52c1-4ead-8077-bc576d36620d | Qonto | Product Engineer (Mobile) - Accounting Domain (Swift and/or Kotlin) | Paris | drop: non-us location
+- https://jobs.lever.co/qonto/ccebc25a-cc07-458e-bf9b-d36c33de441c | Qonto | Product Manager - KYC/KYB | Paris | drop: non-us location
+- https://jobs.lever.co/qonto/471e0021-d630-4cd1-81c3-2fb2e9dc253c | Qonto | Senior Machine Learning Engineer for AI Product | Paris | drop: non-us location
+- https://jobs.lever.co/qonto/4aff341d-3732-418f-b6fa-84e36c1e7979 | Qonto | Senior Product Manager - Accounting Domain - French speaking 🇫🇷 | Paris | drop: non-us location
+- https://jobs.lever.co/pigment/fcf8094a-8356-43c1-b3ef-a58e35feb665 | Pigment | Growth Manager (GTM Engineer) | Paris | drop: non-us location
+- https://jobs.lever.co/pigment/a204cd46-bdae-4a7b-8c79-814432fcaf21 | Pigment | Lead Product Designer - Agentic AI | France or London | drop: sales-only
+- https://jobs.lever.co/pigment/01e58869-2094-4757-9315-b0972eb1d5c1 | Pigment | Senior AI Scientist | France | drop: non-us location
+- https://jobs.lever.co/pigment/e95eaef9-a07b-4dc8-af33-0b59fd242ac9 | Pigment | Senior SRE | Paris | drop: non-us location
+- https://jobs.lever.co/pigment/3fbcf5f3-924f-4749-a90d-8394817c40be | Pigment | Solutions Architect - Paris | Paris | drop: non-us location
+- https://jobs.lever.co/pigment/fb659c21-bd62-4b67-ade9-1b7f55e7f1cf | Pigment | Solutions Architect - UK | London | drop: non-us location
+- https://jobs.lever.co/palantir/fa93a1f8-dc95-40d0-b5ca-f2aebaab0806 | Palantir | Deployment Strategist - Japan Forward Deployed | (unknown) | drop: company-disabled
+- https://jobs.lever.co/palantir/1a53939d-8ffa-4570-b31a-6d0bc53fdb59 | Palantir | Deployment Strategist - Korea Forward Deployed | (unknown) | drop: company-disabled
+- https://jobs.lever.co/palantir/51ea4a3b-7764-4c87-96e4-310e19c856d5 | Palantir | DevOps Engineer | (unknown) | drop: company-disabled
+- https://jobs.lever.co/palantir/636fc05c-d348-4a06-be51-597cb9e07488 | Palantir | Forward Deployed AI Engineer | (unknown) | drop: company-disabled
+- https://jobs.lever.co/palantir/00c2c97b-8514-4617-9883-e53e486b6dcd | Palantir | Forward Deployed Enablement Engineer - Customer Success | (unknown) | drop: company-disabled
+- https://jobs.lever.co/palantir/96a0ce26-cf84-4fa8-934b-acc4363620b2 | Palantir | Forward Deployed Engineer - Mixed Reality | (unknown) | drop: company-disabled
+- https://jobs.lever.co/palantir/72e51928-07f0-4be0-aae5-0ae6956a4846 | Palantir | Forward Deployed Infrastructure Engineer - UK Government | (unknown) | drop: company-disabled
+- https://jobs.lever.co/palantir/74748e0e-a0bc-4c53-a636-ef14e36d9b5e | Palantir | Forward Deployed Infrastructure Engineer - US Government | (unknown) | drop: company-disabled
+- https://jobs.lever.co/palantir/5a99fe16-1bda-4313-ace2-a11ea6e58f0c | Palantir | Forward Deployed Reliability Engineer | (unknown) | drop: company-disabled
+- https://jobs.lever.co/palantir/22053072-4c22-49c4-8299-28e107ceeb98 | Palantir | Forward Deployed Security Engineer - US Government | (unknown) | drop: company-disabled
+- https://jobs.lever.co/palantir/06c7bd36-e24b-4f3a-8b45-1e846ae44095 | Palantir | Forward Deployed Software Engineer | (unknown) | drop: company-disabled
+- https://jobs.lever.co/palantir/27bf5707-96fa-460e-8a5b-53bc192ca87b | Palantir | Forward Deployed Software Engineer  - Edge Autonomous Systems | (unknown) | drop: company-disabled
+- https://jobs.lever.co/palantir/8f15d728-99cc-4003-9add-928bd72a7f30 | Palantir | Forward Deployed Software Engineer - AUS Government | (unknown) | drop: company-disabled
+- https://jobs.lever.co/palantir/0edf7365-49f0-4263-818a-19409ec4f430 | Palantir | Forward Deployed Software Engineer - Autonomous Systems C2 | (unknown) | drop: company-disabled
+- https://jobs.lever.co/palantir/215bfcd6-c929-45ae-a11b-3fa59ed78025 | Palantir | Forward Deployed Software Engineer - France Government | (unknown) | drop: company-disabled
+- https://jobs.lever.co/palantir/34b3a697-6e22-4751-befd-0b7921abbd5f | Palantir | Forward Deployed Software Engineer - Intel | (unknown) | drop: company-disabled
+- https://jobs.lever.co/palantir/8aba5995-653d-4805-96e8-24488e6abf37 | Palantir | Forward Deployed Software Engineer - Japan Forward Deployed | (unknown) | drop: company-disabled
+- https://jobs.lever.co/palantir/12e94938-55cb-4ad9-9c05-405ebc9ef430 | Palantir | Forward Deployed Software Engineer - Japan Government | (unknown) | drop: company-disabled
+- https://jobs.lever.co/palantir/a39bf84c-6648-4871-bd07-9b882d401c4c | Palantir | Forward Deployed Software Engineer - Korea Forward Deployed | (unknown) | drop: company-disabled
+- https://jobs.lever.co/palantir/3d0d9d92-0321-4459-a17d-fa1a76636a43 | Palantir | Forward Deployed Software Engineer - Tactical Edge | (unknown) | drop: company-disabled
+- https://jobs.lever.co/palantir/57a3f928-e7d3-4037-8196-b38e2f867152 | Palantir | Forward Deployed Software Engineer - UK Government | (unknown) | drop: company-disabled
+- https://jobs.lever.co/palantir/289ad049-7b4e-41e3-8a39-146fbeb6fb64 | Palantir | Forward Deployed Software Engineer - US Government | (unknown) | drop: company-disabled
+- https://jobs.lever.co/palantir/13f99633-43b5-4459-8e84-25073f257c18 | Palantir | Forward Deployed Software Engineer - Warp Speed | (unknown) | drop: company-disabled
+- https://jobs.lever.co/palantir/b4aa51a2-bc43-4d67-bf55-12db7feefb3a | Palantir | Forward Deployed Software Engineer, New Grad - UK Government | (unknown) | drop: company-disabled
+- https://jobs.lever.co/palantir/666d13c7-c6f0-43fb-a0ab-091c338085dc | Palantir | Platform Engineer - Identity and Access Management (IAM) | (unknown) | drop: company-disabled
+- https://jobs.lever.co/palantir/250f623c-9afb-4c91-b0c0-25d4e83005ec | Palantir | Product Reliability Engineer - Defense | (unknown) | drop: company-disabled
+- https://jobs.lever.co/palantir/211f99dc-269e-4f25-84d3-d73dea782080 | Palantir | Site Reliability Engineer - US Government | (unknown) | drop: company-disabled
+- https://jobs.lever.co/palantir/5174e95b-2e0a-46f8-8db7-e2c837a0ac94 | Palantir | Site Reliability Operations Analyst - Commercial | (unknown) | drop: company-disabled
+- https://jobs.lever.co/palantir/98bbe55b-f591-4272-a486-d82404d2c576 | Palantir | Site Reliability Operations Analyst - UK Government | (unknown) | drop: company-disabled
+- https://jobs.lever.co/palantir/38758e88-5884-4a11-98ac-d23cab51bc7a | Palantir | Site Reliability Operations Analyst - US Government | (unknown) | drop: company-disabled
+- https://jobs.lever.co/palantir/1ec0ff9f-3d9d-43bc-8aa0-005a887513d0 | Palantir | Systems Engineer - Business Systems | (unknown) | drop: company-disabled
+- https://jobs.lever.co/spotify/361e8a26-1386-477f-bfd0-c819ba863be3 | Spotify | C++ Engineer - Platform Engineering | London | drop: non-us location
+- https://jobs.lever.co/spotify/dcf7cb46-c11d-4704-a034-9bfdd64a0aa1 | Spotify | Government Affairs Lead, Türkiye | Dubai | drop: sales-only
+- https://jobs.lever.co/spotify/3a7a3d26-bd02-496b-86d3-df5277e5b478 | Spotify | Group Product Manager, Experience (Core Experience) | Stockholm | drop: non-us location
+- https://jobs.lever.co/spotify/ae44a3a6-ce50-45c1-9a17-76644c0a234d | Spotify | Head of Government Affairs Australia New Zealand | Sydney | drop: sales-only
+- https://jobs.lever.co/spotify/b6e58287-4355-4f1d-9b56-3add5509b8e8 | Spotify | Principal Product Manager - ML / Subscriptions Growth | London | drop: non-us location
+- https://jobs.lever.co/spotify/2ea95c25-216a-4215-973f-83ef8c8859f5 | Spotify | Product Designer - AI Partnerships | London | drop: sales-only
+- https://jobs.lever.co/spotify/03437e2a-2d5e-4593-9e97-11271014932e | Spotify | Product Manager - Data Platform | Toronto | drop: non-us location
+- https://jobs.lever.co/spotify/ba28dba6-91d0-49ce-881d-dbe2c2ae85e5 | Spotify | Product Manager - Platform Tooling | Stockholm | drop: non-us location
+- https://jobs.lever.co/spotify/b21a510b-d838-4654-9cbb-7973e40a4330 | Spotify | Research Scientist - Personalization | London | drop: non-us location
+- https://jobs.lever.co/spotify/9f7d47cc-8e07-4637-9f38-68db462a72e9 | Spotify | Sales Trainer, LATAM | São Paulo | drop: sales-only
+- https://jobs.lever.co/spotify/c7213c8c-e5e7-4b7b-a425-6ba90fc55efa | Spotify | Senior C++ Engineer - Platform Engineering | London | drop: non-us location
+- https://jobs.lever.co/spotify/df021346-1c23-4184-b27f-b65c47d75564 | Spotify | Senior Conversational AI Lead | London | drop: non-us location
+- https://jobs.lever.co/spotify/337899c1-cf75-4af4-a020-1b2c82347fd6 | Spotify | Senior Music Editor, Taiwan | Taiwan | drop: sales-only
+- https://jobs.lever.co/spotify/d30af7c7-67aa-404a-a1a5-b8b3838e08c3 | Spotify | Senior Product Manager - ML / Subscriptions Growth | London | drop: non-us location
+- https://jobs.lever.co/spotify/3e76b5e6-c86c-42eb-8be7-05d9246dd901 | Spotify | Senior Product Manager, Core Experience (Playback) | Stockholm | drop: non-us location
+- https://jobs.lever.co/spotify/65310b62-58f2-4e15-a93b-ff9682739416 | Spotify | Senior Research Scientist - Music | London | drop: non-us location
+- https://jobs.lever.co/mistral/7894fd8a-ffc9-4c89-87f0-f8a7b695cf01 | Mistral AI | Account Executive – AI for Citizens | Paris | drop: sales-only
+- https://jobs.lever.co/mistral/9808a516-afa8-49a4-93e2-dfc6c616ea0b | Mistral AI | AI Deployment Strategist - Australia | Sydney | drop: sales-only
+- https://jobs.lever.co/mistral/bb02882b-fb2e-4d06-9d5e-bd7654eee8e7 | Mistral AI | AI Deployment Strategist - Luxembourg | Luxembourg | drop: sales-only
+- https://jobs.lever.co/mistral/0cde829a-c9b9-4ee1-827f-9bd30c1810fc | Mistral AI | AI Deployment Strategist - Marseille | Marseille | drop: sales-only
+- https://jobs.lever.co/mistral/c9e2dbb5-00ed-4096-ba88-ac0bdffb68fd | Mistral AI | AI Deployment Strategist - MENA | Abu Dhabi | drop: sales-only
+- https://jobs.lever.co/mistral/8f93bac1-1885-41ea-8650-cb5454be97e7 | Mistral AI | AI Deployment Strategist - Morocco | Casablanca | drop: sales-only
+- https://jobs.lever.co/mistral/1937a5af-2c9b-4a75-bb91-b06ebe714dbd | Mistral AI | AI Deployment Strategist - Munich, Germany | Munich | drop: sales-only
+- https://jobs.lever.co/mistral/2aaf4e18-0943-4ebe-914d-cc9e32db8834 | Mistral AI | AI Deployment Strategist - Netherlands | Amsterdam | drop: sales-only
+- https://jobs.lever.co/mistral/f9697798-31f8-4809-87b6-05eeb5261353 | Mistral AI | AI Deployment Strategist - Paris | Paris | drop: sales-only
+- https://jobs.lever.co/mistral/1e51a251-94cd-486e-8992-93024840412e | Mistral AI | AI Deployment Strategist - Seoul | Seoul | drop: sales-only
+- https://jobs.lever.co/mistral/55c2e8f4-a3ea-4e59-9ccf-dac2fee26c65 | Mistral AI | AI Deployment Strategist - Singapore | Singapore | drop: sales-only
+- https://jobs.lever.co/mistral/2aaf3b8e-3bee-46b7-9942-70351e63007f | Mistral AI | AI Deployment Strategist - Spain | Madrid | drop: sales-only
+- https://jobs.lever.co/mistral/ffbb8f6c-67de-4b25-b37c-0eafd11e7b4f | Mistral AI | AI Deployment Strategist - Sweden | Stockholm | drop: sales-only
+- https://jobs.lever.co/mistral/e59555e3-899d-4e1e-875f-90b825bc1e28 | Mistral AI | AI Deployment Strategist - UK | London | drop: sales-only
+- https://jobs.lever.co/mistral/d9f2767e-cdab-4e07-9944-20bbc468613d | Mistral AI | AI Deployment Strategist, Cybersecurity - Paris | Paris | drop: sales-only
+- https://jobs.lever.co/mistral/3e8b03e7-ff33-4cd1-8042-90b7ac3c4683 | Mistral AI | AI Developer Advocate - Singapore | Singapore | drop: non-us location
+- https://jobs.lever.co/mistral/c79ff8ed-6689-4dda-aec6-979a5dc767d0 | Mistral AI | AI Engineer, Product | Paris | drop: non-us location
+- https://jobs.lever.co/mistral/94173e13-3050-4044-862a-e8dfc2deda5e | Mistral AI | AI Scientist - Audio | Paris | drop: non-us location
+- https://jobs.lever.co/mistral/675b7f06-a76b-4144-af0c-4dd3282ef489 | Mistral AI | AI Scientist - Paris/London - Onsite or Hybrid or Remote | Paris | drop: non-us location
+- https://jobs.lever.co/mistral/60f9dc5b-6d1c-4236-be38-be7233669f00 | Mistral AI | AI Scientist - Robotics | Paris | drop: non-us location
+- https://jobs.lever.co/mistral/4e498cbf-151e-483a-b3f7-76ff64a22041 | Mistral AI | AI Scientist - Warsaw | Warsaw | drop: non-us location
+- https://jobs.lever.co/mistral/bedfc2aa-f1b6-4136-bd17-b3abe4c06120 | Mistral AI | AI Scientist - Zurich | Zurich | drop: non-us location
+- https://jobs.lever.co/mistral/aceffeba-c4e9-4b3b-adff-e7e78b986c5c | Mistral AI | Applied AI Engineer, Fullstack Software Engineer - EMEA | Paris | drop: non-us location
+- https://jobs.lever.co/mistral/ac195fdb-1731-4ce2-b47e-c1bb8c72c59d | Mistral AI | Applied AI Engineer, Prototyping | Paris | drop: non-us location
+- https://jobs.lever.co/mistral/3e51d533-1f2d-48e3-9a2b-33fc7e8b0c0c | Mistral AI | Applied AI Engineer, Senior/Staff Devops/SRE - EMEA | Paris | drop: non-us location
+- https://jobs.lever.co/mistral/5538042e-f157-4a2c-a9ee-e412de9ba761 | Mistral AI | Applied AI Engineer, Senior/Staff Fullstack Software Engineer - Singapore | Singapore | drop: non-us location
+- https://jobs.lever.co/mistral/5993e633-2c23-4054-801e-1da4c2adadc5 | Mistral AI | Applied AI,  Senior/Staff Forward Deployed Machine Learning Engineer - Singapore | Singapore | drop: non-us location
+- https://jobs.lever.co/mistral/e0db3860-0a80-47a8-958a-f8e62f3bb59c | Mistral AI | Applied AI, Evaluation Engineer | Paris | drop: non-us location
+- https://jobs.lever.co/mistral/77f6fd1b-65cf-45d8-9b68-594c62732f62 | Mistral AI | Applied AI, Forward Deployed Machine Learning Engineer - EMEA | Paris | drop: non-us location
+- https://jobs.lever.co/mistral/a73cb128-b07e-437c-b82d-57b06661c52b | Mistral AI | Applied AI, Forward Deployed Machine Learning Engineer - Montreal | Montreal | drop: non-us location
+- https://jobs.lever.co/mistral/cb2137e6-d6b1-47d7-8450-6370a61f2b79 | Mistral AI | Applied AI, Forward Deployed Machine Learning Engineer - Morocco | Casablanca | drop: non-us location
+- https://jobs.lever.co/mistral/6fc7ccb5-47bb-4eab-aea0-55929403315d | Mistral AI | Applied AI, Forward Deployed Machine Learning Engineer- Singapore | Singapore | drop: non-us location
+- https://jobs.lever.co/mistral/c7b7fdfe-a071-4d62-bc15-7bcdff8067e7 | Mistral AI | Applied AI, Forward Deployed Machine Learning Engineer, Critical and Sovereign Institutions, EMEA | Paris | drop: non-us location
+- https://jobs.lever.co/mistral/e2cf255f-49c8-4630-afe0-7f665f51f01f | Mistral AI | Applied AI, Technical Lead, Forward Deployed AI Engineer - EMEA | Paris | drop: non-us location
+- https://jobs.lever.co/mistral/042d7b29-279b-48e2-a44b-c7bdc3180dab | Mistral AI | Applied AI, Technical Lead, Forward Deployed AI Engineer - Montreal | Montreal | drop: non-us location
+- https://jobs.lever.co/mistral/b7ae8fc4-5779-4ad2-8f5b-632b4d9498cf | Mistral AI | Applied Scientist / Research Engineer - EMEA | Paris | drop: non-us location
+- https://jobs.lever.co/mistral/c41d9d9e-f0ea-4621-a4a9-3f10dfa9ae84 | Mistral AI | Applied Scientist / Research Engineer - Singapore | Singapore | drop: non-us location
+- https://jobs.lever.co/mistral/4d689780-4995-4fe5-9b7e-e8c28a180397 | Mistral AI | Associate AI Deployment Strategist | Paris | drop: sales-only
+- https://jobs.lever.co/mistral/94a331c8-0ddf-4e88-a6ad-7a70c212e0fa | Mistral AI | CyberSecurity Engineer, DevSecOps | Paris | drop: non-us location
+- https://jobs.lever.co/mistral/f76907fd-428a-4824-a1cf-8013974fde29 | Mistral AI | Mistral Cloud - Site Reliability Engineer | Paris | drop: non-us location
+- https://jobs.lever.co/mistral/6201f9a0-233f-4de3-a8cc-65b75e99370f | Mistral AI | Product Manager, AI Studio | Paris | drop: non-us location
+- https://jobs.lever.co/mistral/c08c3a0f-9899-4e6c-8195-8b1cc24c56ff | Mistral AI | Product Manager, Context & Search | Paris | drop: non-us location
+- https://jobs.lever.co/mistral/7809b483-bdae-4964-97c7-5b8d232a142f | Mistral AI | Product Manager, Document Intelligence | Paris | drop: non-us location
+- https://jobs.lever.co/mistral/11087966-f183-44b1-adc9-3a400c1f52ad | Mistral AI | Product Manager, Forge | Paris | drop: non-us location
+- https://jobs.lever.co/mistral/ef744f52-3ceb-42f1-84f6-1c8bde220eb1 | Mistral AI | Research Engineer - Robotics | Paris | drop: non-us location
+- https://jobs.lever.co/mistral/071a5491-ea01-413f-ad78-f85b5e4c2215 | Mistral AI | Research Engineer, Data Infrastructure | Paris | drop: non-us location
+- https://jobs.lever.co/mistral/07447e1d-7900-46d4-b61b-186f2f76847f | Mistral AI | Research Engineer, Machine Learning - Paris/London/Zurich/Warsaw | Paris | drop: non-us location
+- https://jobs.lever.co/mistral/18be2b70-c05d-48e4-82ac-e5cb462c96c0 | Mistral AI | Research Platform Engineer, DevOps | Paris | drop: non-us location
+- https://jobs.lever.co/mistral/0004f890-99d5-47c5-bb67-8f3f76a1e08f | Mistral AI | Senior AI Deployment Strategist - Paris | Paris | drop: sales-only
+- https://jobs.lever.co/mistral/6e16e4fa-a60b-4270-a815-06b0450fb597 | Mistral AI | Site Reliability Engineer | Paris | drop: non-us location
+- https://jobs.lever.co/mistral/3eef7a1f-cd9d-430e-ac67-9d52534c346a | Mistral AI | Software Engineer, Enterprise Agents | Paris | drop: non-us location
+- https://jobs.ashbyhq.com/glacis-ai/6896e1c0-5315-45fd-87b2-7a740c461205 | Glacis AI | Founding Software Engineer - Agentic AI | Ho Chi Minh City | drop: non-us location
+- https://jobs.ashbyhq.com/glacis-ai/796efc69-0c03-45d9-9f54-f3de7bbccde9 | Glacis AI | Founding Software Engineer - Agentic AI (On-site) | Ho Chi Minh City | drop: non-us location

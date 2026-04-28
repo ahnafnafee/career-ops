@@ -1,0 +1,72 @@
+%% Career-Ops Cover Letter Template
+%% Visual style matches templates/cv-template.tex (accent color, lmodern, ATS-friendly).
+%% Build: pdflatex {file}.tex (or tectonic {file}.tex)
+
+\documentclass[letterpaper,11pt]{article}
+
+\usepackage[margin=0.85in]{geometry}
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage{lmodern}
+\usepackage{microtype}
+\usepackage{hyperref}
+\usepackage{xcolor}
+\usepackage{parskip}
+
+\definecolor{accent}{HTML}{1F3A5F}
+
+\hypersetup{
+  colorlinks=true,
+  urlcolor=accent,
+  linkcolor=accent,
+  pdftitle={ {{NAME}} - Cover Letter - {{COMPANY}} },
+  pdfauthor={ {{NAME}} },
+  pdfsubject={Cover Letter}
+}
+
+\input{glyphtounicode}
+\pdfgentounicode=1
+
+\pagestyle{empty}
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{8pt}
+
+\begin{document}
+
+% --- Header (matches CV) ----------------------------------------------------
+\begin{center}
+  {\LARGE\bfseries\color{accent} {{NAME}} }\\[3pt]
+  {\small {{HEADLINE}} }\\[4pt]
+  \small
+  \href{mailto:{{EMAIL_URL}}}{{{EMAIL_DISPLAY}}} \textbar{}
+  {{PHONE}} \textbar{}
+  {{LOCATION}}\\
+  \href{{{LINKEDIN_URL}}}{{{LINKEDIN_DISPLAY}}} \textbar{}
+  \href{{{GITHUB_URL}}}{{{GITHUB_DISPLAY}}} \textbar{}
+  \href{{{PORTFOLIO_URL}}}{{{PORTFOLIO_DISPLAY}}}
+\end{center}
+
+\vspace{20pt}
+
+% --- Date -------------------------------------------------------------------
+{{DATE}}
+
+% --- Recipient block (multi-line; use \\ between lines) ---------------------
+{{RECIPIENT_BLOCK}}
+
+% --- Subject ----------------------------------------------------------------
+\textbf{Re: {{ROLE}}}
+
+% --- Greeting ---------------------------------------------------------------
+{{GREETING}}
+
+% --- Body (3 paragraphs separated by blank lines) ---------------------------
+{{BODY}}
+
+% --- Closing ----------------------------------------------------------------
+{{CLOSING}}
+
+\vspace{18pt}
+{{NAME}}
+
+\end{document}

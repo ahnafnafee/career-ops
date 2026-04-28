@@ -19,16 +19,17 @@ import { execFileSync } from 'child_process';
 import { existsSync, mkdirSync } from 'fs';
 
 const REQUIRED_SECTIONS = [
-  '\\\\section{Education}',
-  '\\\\section{Work Experience}',
-  '\\\\section{Personal Projects}',
-  '\\\\section{Technical Skills}',
+  '\\\\section\\*?\\{Summary\\}',
+  '\\\\section\\*?\\{Technical Skills\\}',
+  '\\\\section\\*?\\{Work Experience\\}',
+  '\\\\section\\*?\\{Education\\}',
+  '\\\\section\\*?\\{Selected Projects\\}',
 ];
 
 const REQUIRED_COMMANDS = [
-  '\\\\resumeSubheading',
-  '\\\\resumeItem',
-  '\\\\resumeProjectHeading',
+  '\\\\role\\{',
+  '\\\\education\\{',
+  '\\\\begin\\{tightitemize\\}',
 ];
 
 async function main() {

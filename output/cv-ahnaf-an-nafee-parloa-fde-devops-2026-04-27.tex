@@ -1,0 +1,161 @@
+%% Career-Ops LaTeX CV Template
+%% Style: ATS-optimized single-column, minimal color accent, single-page friendly.
+%% Build: pdflatex {file}.tex (or tectonic {file}.tex)
+
+\documentclass[letterpaper,10pt]{article}
+
+\usepackage[margin=0.55in]{geometry}
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage{lmodern}
+\usepackage{microtype}
+\usepackage{enumitem}
+\usepackage{titlesec}
+\usepackage{hyperref}
+\usepackage{xcolor}
+\usepackage{parskip}
+
+\definecolor{accent}{HTML}{1F3A5F}
+
+\hypersetup{
+  colorlinks=true,
+  urlcolor=accent,
+  linkcolor=accent,
+  pdftitle={ Ahnaf An Nafee - Resume },
+  pdfauthor={ Ahnaf An Nafee },
+  pdfsubject={Resume},
+  pdfkeywords={ Forward Deployed Engineer, DevOps, Kubernetes, OpenShift, Helm, Docker, CI/CD, GitHub Actions, Jenkins, Terraform, AWS, Python, Go, Bash, RBAC, Multi-tenancy, Observability, Self-service Platform, Customer-facing, Microservices, GitOps, Argo CD, Voice AI }
+}
+
+% Ensure generated PDF is machine readable / ATS parseable
+\input{glyphtounicode}
+\pdfgentounicode=1
+
+\pagestyle{empty}
+\setlength{\parindent}{0pt}
+\raggedbottom
+\raggedright
+
+% --- Section formatting ------------------------------------------------------
+% Note: section titles render in mixed case (no \MakeUppercase) for maximum
+% ATS compatibility. Older parsers normalize headers like "Work Experience"
+% and "Education" more reliably than uppercase variants.
+\titleformat{\section}
+  {\color{accent}\large\bfseries}
+  {}{0em}{}[{\color{accent}\vspace{-6pt}\hrulefill\vspace{-4pt}}]
+\titlespacing*{\section}{0pt}{8pt}{4pt}
+
+\titleformat{\subsection}
+  {\normalsize\bfseries}
+  {}{0em}{}
+\titlespacing*{\subsection}{0pt}{4pt}{2pt}
+
+% --- Custom commands ---------------------------------------------------------
+\newcommand{\role}[4]{%
+  \textbf{#1} \hfill \textit{#3}\\[-1pt]
+  \textit{#2} \hfill \textit{#4}\par\vspace{2pt}
+}
+
+\newcommand{\education}[4]{%
+  \textbf{#1} \hfill \textit{#3}\\[-1pt]
+  \textit{#2} \hfill \textit{#4}\par\vspace{2pt}
+}
+
+\newlist{tightitemize}{itemize}{1}
+\setlist[tightitemize]{leftmargin=1.3em, topsep=2pt, itemsep=1pt, parsep=0pt, label=\textbullet}
+
+% =============================================================================
+\begin{document}
+
+% --- Header ------------------------------------------------------------------
+\begin{center}
+  {\LARGE\bfseries\color{accent} Ahnaf An Nafee }\\[3pt]
+  {\normalsize Software Engineer \textbar{} AI Researcher \textbar{} DevOps \& Cloud Infrastructure }\\[4pt]
+  \small
+  \href{mailto:ahnafnafee@gmail.com}{ahnafnafee@gmail.com} \textbar{}
+  +1-540-252-8738 \textbar{}
+  Fairfax, VA\\
+  \href{https://linkedin.com/in/ahnafnafee}{linkedin.com/in/ahnafnafee} \textbar{}
+  \href{https://github.com/ahnafnafee}{github.com/ahnafnafee} \textbar{}
+  \href{https://www.ahnafnafee.dev}{ahnafnafee.dev} \textbar{} \href{https://scholar.google.com/citations?user=u15DO0cAAAAJ}{Google Scholar}
+\end{center}
+
+% --- Summary -----------------------------------------------------------------
+\section*{Summary}
+DevOps and platform engineer with hands-on experience operating production Kubernetes and OpenShift at enterprise scale, paired with cross-team leadership shaped by a former CTO role. Architected self-service deployment standards across 10+ service teams, rolled out RBAC and TLS automation eliminating expiration-related downtime, and shipped CI/CD pipelines (GitHub Actions, Maven, Gradle) that cut manual release effort by 85\%. Customer-facing track record running weekly stakeholder syncs across product, design, and engineering, plus PhD research at the intersection of applied AI and HCI---directly adjacent to voice and agentic AI deployment work. Seeking a Forward Deployed DevOps role where K8s scale, automation, and customer empathy converge.
+
+% --- Skills ------------------------------------------------------------------
+\section*{Technical Skills}
+\textbf{Cloud \& DevOps:} Kubernetes, OpenShift, AWS, Docker, Helm, Terraform, GitHub Actions, Jenkins, Gradle, Maven, CI/CD, RBAC, Observability\\
+\textbf{Languages:} Python, Go, Bash, Java, C++, TypeScript, JavaScript, SQL, GLSL\\
+\textbf{Backend \& Systems:} Distributed Systems, Microservices, Multi-tenancy, REST, gRPC, WebSockets, OAuth, System Design, High Availability\\
+\textbf{AI / ML:} PyTorch, TensorFlow, Generative AI, Deep Learning, LLMs, Diffusion Models, MLOps\\
+\textbf{Graphics \& XR:} 3D Computer Graphics, Real-Time Rendering, Shader Programming, Unity, Unreal Engine, WebGL\\
+\textbf{Methods:} Cross-Functional Collaboration, Technical Leadership, Stakeholder Management, Agile, Test-Driven Development, Code Review
+
+% --- Experience --------------------------------------------------------------
+\section*{Work Experience}
+\role{DevOps Engineer}{Paychex}{Feb 2023 -- Aug 2025}{Rochester, NY}
+\begin{tightitemize}
+  \item Architected and led cross-team standardization of Kubernetes and OpenShift deployment dictionaries across 10+ service teams, delivering a self-service platform that eliminated configuration conflicts and accelerated developer velocity
+  \item Designed and rolled out Role-Based Access Control (RBAC) policies in OpenShift in partnership with security and infrastructure teams, hardening multi-tenancy isolation and resource management
+  \item Built a Gradle plugin for container image certification that streamlined CI/CD workflows, reduced build-pipeline congestion, and lowered operational expenses by 10\% annually
+  \item Automated end-to-end TLS certificate lifecycle management, eliminating manual renewals and reducing certificate-expiration-related downtime by 100\%
+  \item Championed infrastructure-as-code, observability, and monitoring best practices; partnered with SREs to improve deployment reliability and mean time to recovery (MTTR)
+\end{tightitemize}
+
+\role{Chief Technology Officer}{Dynasty 11 Studios}{Jun 2022 -- Feb 2023}{Wayne, PA}
+\begin{tightitemize}
+  \item Drove weekly customer-facing stakeholder syncs across product, design, and engineering, aligning roadmap, scope, and delivery milestones---direct analog to Forward Deployed partnership
+  \item Introduced CI/CD with GitHub Actions and Maven, automating builds, tests, and deployments and reducing manual release effort by 85\%
+  \item Spearheaded migration of monolithic backend to microservices on AWS, cutting application load and cloud spend by 80\% via right-sizing, autoscaling, and serverless adoption
+  \item Owned end-to-end technical strategy, architecture, and execution as CTO; led engineering across backend, frontend, and cloud teams shipping a consumer-facing platform
+  \item Recruited, mentored, and led multiple engineering pods through full microservice design, implementation, and production rollout
+\end{tightitemize}
+
+\role{Software Engineer}{Dynasty 11 Studios}{Sep 2021 -- Jun 2022}{Wayne, PA}
+\begin{tightitemize}
+  \item Engineered a real-time chat subsystem using STOMP over WebSockets in Java, supporting thousands of concurrent users with low-latency delivery
+  \item Integrated 20+ REST endpoints across third-party and OAuth-based identity providers, enabling secure, scalable authentication and data exchange
+  \item Optimized client-side state management with Redux, cutting chat-service performance bottlenecks by 80\%
+  \item Designed data pipelines and APIs powering the matchmaking recommendation engine serving thousands of active users
+\end{tightitemize}
+
+\role{Graduate Teaching Assistant}{George Mason University --- DCXR Lab}{Aug 2025 -- Present}{Fairfax, VA}
+\begin{tightitemize}
+  \item Mentor 60+ graduate and undergraduate students in algorithms, systems, and applied machine learning, driving measurable improvements in lab completion and conceptual mastery
+  \item Design coursework, lab exercises, and evaluation rubrics aligned with modern software engineering best practices
+\end{tightitemize}
+
+\role{Technical Programmer}{PHL Collective}{Mar 2021 -- Sep 2021}{Philadelphia, PA}
+\begin{tightitemize}
+  \item Shipped gameplay systems and parameterized shaders for \textit{DC's Justice League: Cosmic Chaos} (multi-platform console/PC release)
+  \item Partnered with technical artists to create customizable, performance-tuned shaders optimized for runtime rendering
+  \item Executed integration and stress testing via Mantis, delivering actionable, developer-ready bug reports
+\end{tightitemize}
+
+% --- Education ---------------------------------------------------------------
+\section*{Education}
+\education{Ph.D. in Computer Science}{George Mason University --- DCXR Lab}{}{Fairfax, VA}
+\begin{tightitemize}
+  \item Research focus: applied AI and human--computer interaction, generative models for 3D content creation, ML-driven graphics pipelines, and immersive XR systems
+\end{tightitemize}
+
+\education{B.S. in Computer Science}{Drexel University}{}{Philadelphia, PA}
+\begin{tightitemize}
+  \item Honors: Dean's List; Founder's Scholarship
+  \item Relevant coursework: Algorithms, Operating Systems, Distributed Computing, Computer Graphics, Machine Learning, Software Engineering
+\end{tightitemize}
+
+% --- Projects ----------------------------------------------------------------
+% Section header is "Selected Projects" (not "Research & Selected Projects")
+% so ATS classify the items below as Projects. Research focus stays in the
+% bullet text itself.
+\section*{Selected Projects}
+\begin{tightitemize}
+\item \textbf{AI-Driven 3D Content Generation} --- Researching generative models (diffusion, neural fields) for automated, controllable 3D asset creation in production-grade graphics pipelines
+\item \textbf{ML for Graphics Pipelines} --- Exploring learning-based approaches to UV mapping, stylization, and non-photorealistic rendering (NPR) for real-time applications
+\item \textbf{Portfolio \& Publications} --- Additional projects, technical artwork, and engineering work available at \href{https://www.ahnafnafee.dev/portfolio}{ahnafnafee.dev/portfolio}
+\end{tightitemize}
+
+\end{document}

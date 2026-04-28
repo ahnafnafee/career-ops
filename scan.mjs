@@ -190,12 +190,15 @@ function appendToPipeline(offers) {
 
   let text = readFileSync(PIPELINE_PATH, 'utf-8');
 
-  // Find "## Pendientes" section and append after it
-  const marker = '## Pendientes';
+  // Find "## Pending" section and append after it.
+  // Fallback to legacy Spanish markers ("## Pendientes" / "## Procesadas")
+  // if a user has an older pipeline.md.
+  const marker = text.includes('## Pendientes') ? '## Pendientes' : '## Pending';
+  const procMarker = text.includes('## Procesadas') ? '## Procesadas' : '## Processed';
   const idx = text.indexOf(marker);
   if (idx === -1) {
-    // No Pendientes section — append at end before Procesadas
-    const procIdx = text.indexOf('## Procesadas');
+    // No pending section — append at end before processed (or EOF)
+    const procIdx = text.indexOf(procMarker);
     const insertAt = procIdx === -1 ? text.length : procIdx;
     const block = `\n${marker}\n\n` + offers.map(o =>
       `- [ ] ${o.url} | ${o.company} | ${o.title}`
