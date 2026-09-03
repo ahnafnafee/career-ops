@@ -26,6 +26,15 @@ Open http://localhost:3000. The app reads the career-ops checkout it lives in
 
 - **Pipeline** — your tracker as a sortable, filterable table; status changes
   write back through the core's own scripts.
+- **Campaign / packet review desk** — a read-only, cross-workspace application
+  corpus generated from `data/campaign-sources.json`. Select a role to inspect
+  its archived posting, tailored résumé and cover-letter PDFs, application
+  answers and skills, fit/CPT review, checklist, outreach, and source files.
+  The list rebuilds automatically when its ownership/tracker inputs change;
+  open packet contents are read live from the owning workspace. A manual
+  `node campaign-dashboard.mjs` refresh remains available from the repository
+  root, and the public-safe Markdown export stays separate from private packet
+  contents.
 - **Explore** — the free reverse-ATS scan with an honest partial-dataset
   indicator, plus AI-assisted discovery (bring your own CLI/keys).
 - **Apply** — assisted form prefill with a hard rule inherited from the core:
